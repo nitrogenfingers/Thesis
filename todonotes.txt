@@ -1,0 +1,33 @@
+Title:
+	Dislike the title. Needs to change to reflect content better.
+	Title page off-center from footer. Check on a work machine
+	Update Copyright to 2016
+Dedication
+	Clumsily worded
+Abstract
+	To write (once body of chapters 1-5 is COMPLETE)
+	Query- length and expected content of abstract. Details from Tom.
+Introduction
+	Significance:
+		- Chop. Not part of this aspect of the thesis.
+Chapter 2 and 3
+	To be ACTUALLY FUCKING WRITTEN
+Header
+	- Why is second page onward using &section title? Issue with all chapters.
+Chapter 4
+	- Equations on 20 very messy. Clean up.
+		- Center
+		- Make bolding consistent and less ugly
+		- Increase size, or spacing, or something.
+	- Conclusion page. Needs to be summarized and explained.
+Chapter 5
+	- Floating margins on description environment in 5.2
+	- Titles are wrong. Reorganize section/subsection titles
+
+- hyphenation overkill in "description" environments
+	
+Bad references:
+	- Liscar et al 2006
+	- Cassel (4.1.1)
+	- Missing citation [2] (4.1.3)
+	- Hicampie-Raoms

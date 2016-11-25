@@ -1,0 +1,78 @@
+\contentsline {chapter}{Acknowledgments}{vii}{chapter*.1}
+\contentsline {chapter}{Abstract}{ix}{chapter*.2}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Topic}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Research Question}{2}{section.1.2}
+\contentsline {section}{\numberline {1.3}Thesis Outline}{3}{section.1.3}
+\contentsline {section}{\numberline {1.4}Significance}{4}{section.1.4}
+\contentsline {chapter}{\numberline {2}Natural Language and Gestures}{5}{chapter.2}
+\contentsline {section}{\numberline {2.1}Inter-communicative gestures}{5}{section.2.1}
+\contentsline {section}{\numberline {2.2}Forms of inter-communicative gestures}{6}{section.2.2}
+\contentsline {section}{\numberline {2.3}Elements of gestural communication}{7}{section.2.3}
+\contentsline {section}{\numberline {2.4}Cultural variation and significance}{7}{section.2.4}
+\contentsline {section}{\numberline {2.5}Variation in performance of gestures}{8}{section.2.5}
+\contentsline {chapter}{\numberline {3}A Survey of Gestural Interfaces}{11}{chapter.3}
+\contentsline {section}{\numberline {3.1}Definition}{11}{section.3.1}
+\contentsline {section}{\numberline {3.2}Intended Purpose and Origins}{11}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Natural Language Interaction}{11}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Expressiveness}{12}{subsection.3.2.2}
+\contentsline {section}{\numberline {3.3}Development and Implementation}{12}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Two-dimensional / iconographic}{12}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Pen and tablet input}{13}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Motion sensing and towards "hands free"}{13}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}Gesture Capture Devices}{13}{subsection.3.3.4}
+\contentsline {section}{\numberline {3.4}Techniques in Recognition}{13}{section.3.4}
+\contentsline {chapter}{\numberline {4}Implementation and Usage of Gestural Interfaces}{15}{chapter.4}
+\contentsline {section}{\numberline {4.1}Pointing Interfaces}{15}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Implementation}{15}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Design}{18}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Implementation Methodology}{20}{subsection.4.1.3}
+\contentsline {subsubsection}{\numberline {4.1.3.1}Design Constraints}{21}{subsubsection.4.1.3.1}
+\contentsline {subsubsection}{\numberline {4.1.3.2}Pointing Recognition}{24}{subsubsection.4.1.3.2}
+\contentsline {subsubsection}{\numberline {4.1.3.3}Practical Issues}{28}{subsubsection.4.1.3.3}
+\contentsline {section}{\numberline {4.2}System Performance}{30}{section.4.2}
+\contentsline {chapter}{\numberline {5}Performance with Pointing Gestures}{31}{chapter.5}
+\contentsline {section}{\numberline {5.1}Actual and Perceived Interface Functionality}{31}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Natural Computing}{35}{subsection.5.1.1}
+\contentsline {section}{\numberline {5.2}Study 1}{37}{section.5.2}
+\contentsline {section}{\numberline {5.3}Changing the user perception}{39}{section.5.3}
+\contentsline {section}{\numberline {5.4}A Comparison of Pointing Devices}{41}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}Aim}{41}{subsection.5.4.1}
+\contentsline {subsubsection}{\numberline {5.4.1.1}Performance}{42}{subsubsection.5.4.1.1}
+\contentsline {subsubsection}{\numberline {5.4.1.2}Ergonomics}{42}{subsubsection.5.4.1.2}
+\contentsline {subsubsection}{\numberline {5.4.1.3}Preference}{43}{subsubsection.5.4.1.3}
+\contentsline {subsection}{\numberline {5.4.2}System}{43}{subsection.5.4.2}
+\contentsline {subsubsection}{\numberline {5.4.2.1}Wired Glove}{43}{subsubsection.5.4.2.1}
+\contentsline {subsubsection}{\numberline {5.4.2.2}Wand}{44}{subsubsection.5.4.2.2}
+\contentsline {subsubsection}{\numberline {5.4.2.3}Gyroscopic Mouse}{45}{subsubsection.5.4.2.3}
+\contentsline {subsection}{\numberline {5.4.3}Method}{46}{subsection.5.4.3}
+\contentsline {subsubsection}{\numberline {5.4.3.1}System}{46}{subsubsection.5.4.3.1}
+\contentsline {subsubsection}{\numberline {5.4.3.2}Tasks}{47}{subsubsection.5.4.3.2}
+\contentsline {subsubsection}{\numberline {5.4.3.3}Measurements}{49}{subsubsection.5.4.3.3}
+\contentsline {subsection}{\numberline {5.4.4}Results}{49}{subsection.5.4.4}
+\contentsline {subsubsection}{\numberline {5.4.4.1}Performance}{50}{subsubsection.5.4.4.1}
+\contentsline {subsubsection}{\numberline {5.4.4.2}Ergonomics}{51}{subsubsection.5.4.4.2}
+\contentsline {subsection}{\numberline {5.4.5}Discussion of Results}{53}{subsection.5.4.5}
+\contentsline {subsubsection}{\numberline {5.4.5.1}Trial Caveats}{54}{subsubsection.5.4.5.1}
+\contentsline {section}{\numberline {5.5}Followup Studies}{55}{section.5.5}
+\contentsline {subsection}{\numberline {5.5.1}Changes in Study Method}{56}{subsection.5.5.1}
+\contentsline {subsection}{\numberline {5.5.2}Standing and seated postures}{58}{subsection.5.5.2}
+\contentsline {subsubsection}{\numberline {5.5.2.1}Results}{59}{subsubsection.5.5.2.1}
+\contentsline {subsubsection}{\numberline {5.5.2.2}Discussion}{60}{subsubsection.5.5.2.2}
+\contentsline {subsection}{\numberline {5.5.3}Hand shape}{61}{subsection.5.5.3}
+\contentsline {subsubsection}{\numberline {5.5.3.1}Results}{62}{subsubsection.5.5.3.1}
+\contentsline {subsubsection}{\numberline {5.5.3.2}Discussion}{62}{subsubsection.5.5.3.2}
+\contentsline {subsection}{\numberline {5.5.4}Identifying Optimal Attributes for 3D Interfaces}{63}{subsection.5.5.4}
+\contentsline {subsubsection}{\numberline {5.5.4.1}Introduction}{63}{subsubsection.5.5.4.1}
+\contentsline {subsubsection}{\numberline {5.5.4.2}Methodology}{64}{subsubsection.5.5.4.2}
+\contentsline {paragraph}{System}{65}{section*.71}
+\contentsline {paragraph}{Input Devices}{66}{section*.72}
+\contentsline {subsubsection}{\numberline {5.5.4.3}Experimental Methodology}{67}{subsubsection.5.5.4.3}
+\contentsline {subsubsection}{\numberline {5.5.4.4}Results}{68}{subsubsection.5.5.4.4}
+\contentsline {paragraph}{Performance}{68}{table.5.6}
+\contentsline {paragraph}{Preference and Fatigue}{69}{section*.74}
+\contentsline {paragraph}{Discussion}{70}{section*.75}
+\contentsline {chapter}{\numberline {6}Performing with Freeform Gestures}{73}{chapter.6}
+\contentsline {section}{\numberline {6.1}Future Work}{73}{section.6.1}
+\contentsline {chapter}{\numberline {7}Conclusion}{75}{chapter.7}
+\contentsline {section}{\numberline {7.1}Who even knows...}{75}{section.7.1}

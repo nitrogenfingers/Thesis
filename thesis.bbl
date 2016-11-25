@@ -1,0 +1,120 @@
+\begin{thebibliography}{18}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem[{Argyle(1988)}]{Argyle1988}
+\textsc{Argyle, M.}, 1988.
+\newblock \emph{Bodily Communication}.
+\newblock Methuen \& Co, New York, 2 edn.
+
+\bibitem[{Athitsos et~al.(2010)Athitsos, Wang, and Stefan}]{AthitsosEtAl2010}
+\textsc{Athitsos, V.; Wang, H.; and Stefan, A.}, 2010.
+\newblock A database-based framework for gesture recognition.
+\newblock \emph{Personal Ubiquitous Comput.}, 14, 6  (2010), 511--526.
+\newblock \doi{10.1007/s00779-009-0276-x}.
+
+\bibitem[{Bolt(1980)}]{Bolt1980}
+\textsc{Bolt, R.~A.}, 1980.
+\newblock "put-that-there": Voice and gesture at the graphics interface.
+\newblock \emph{SIGGRAPH Comput. Graph.}, 14, 3  (1980), 262--270.
+\newblock \doi{10.1145/965105.807503}.
+
+\bibitem[{Cabral et~al.(2005)Cabral, Morimoto, and Zuffo}]{CabralEtAl2005}
+\textsc{Cabral, M.~C.; Morimoto, C.~H.; and Zuffo, M.~K.}, 2005.
+\newblock On the usability of gesture interfaces in virtual reality
+  environments.
+\newblock \doi{10.1145/1111360.1111370}.
+
+\bibitem[{Cassell(1998)}]{Cassell1998}
+\textsc{Cassell, J.}, 1998.
+\newblock \emph{A Framework For Gesture Generation and Interpretation}, book
+  section~11, 191--215.
+
+\bibitem[{Churchill(2011)}]{Churchill2011}
+\textsc{Churchill, E.~F.}, 2011.
+\newblock Missing the point.
+\newblock \emph{interactions}, 18, 5  (2011), 80--83.
+\newblock \doi{10.1145/2008176.2008194}.
+
+\bibitem[{Cédras and Shah(1995)}]{CédrasShah1995}
+\textsc{Cédras, C. and Shah, M.}, 1995.
+\newblock Motion-based recognition: A survey.
+\newblock \emph{Image and Vision Computing}, 13, 2  (1995), 129--155.
+
+\bibitem[{Fukumoto et~al.(1994)Fukumoto, Suenaga, and Mase}]{FukumotoEtAl1994}
+\textsc{Fukumoto, M.; Suenaga, Y.; and Mase, K.}, 1994.
+\newblock “finger-pointer”: Pointing interface by image processing.
+\newblock \emph{Computers \& Graphics}, 18, 5  (1994), 633--642.
+\newblock \doi{10.1016/0097-8493(94)90157-0}.
+\newblock
+  \urlprefix\url{http://www.sciencedirect.com/science/article/pii/0097849394901570}.
+
+\bibitem[{Goodall(1968)}]{Goodall1968}
+\textsc{Goodall, J. v.~L.}, 1968.
+\newblock The behaciour of free-living chimpanzees in the gombe stream reserve.
+\newblock \emph{Animal Behaviour Monographs}, 1 (1968), 161--311.
+
+\bibitem[{Hewes(1976)}]{Hewes1976}
+\textsc{Hewes, G.~W.}, 1976.
+\newblock The current state of gestural theory and language origin.
+\newblock \emph{Annals of the New York Academy of Sciences}, 280, 1  (1976),
+  482--504.
+\newblock \doi{10.1111/j.1749-6632.1976.tb25512.x}.
+\newblock \urlprefix\url{http://dx.doi.org/10.1111/j.1749-6632.1976.tb25512.x}.
+
+\bibitem[{Hincapié-Ramos et~al.(2014)Hincapié-Ramos, Guo, Moghadasian, and
+  Irani}]{Hincapié-RamosEtAl2014}
+\textsc{Hincapié-Ramos, J.~D.; Guo, X.; Moghadasian, P.; and Irani, P.}, 2014.
+\newblock Consumed endurance: a metric to quantify arm fatigue of mid-air
+  interactions.
+\newblock \doi{10.1145/2556288.2557130}.
+
+\bibitem[{Kim et~al.(2011)Kim, Lee, Jo, Yang, Kim, and Park}]{KimEtAl2011}
+\textsc{Kim, Y.; Lee, G.~A.; Jo, D.; Yang, U.; Kim, G.; and Park, J.}, 2011.
+\newblock Analysis on virtual interaction-induced fatigue and difficulty in
+  manipulation for interactive 3d gaming console.
+\newblock In \emph{Consumer Electronics (ICCE), 2011 IEEE International
+  Conference on}, 269--270.
+\newblock \doi{10.1109/icce.2011.5722577}.
+
+\bibitem[{Knapp and Hall(2010)}]{KnappHall2010}
+\textsc{Knapp, M.~L. and Hall, J.~A.}, 2010.
+\newblock \emph{Nonverbal Communication in Human Interaction}.
+\newblock Wadsworth Cengage Learning, Boston, 7 edn.
+
+\bibitem[{Licsár et~al.(2006)Licsár, Szirányi, Kovács, and
+  Pataki}]{LicsárEtAl2006}
+\textsc{Licsár, A.; Szirányi, T.; Kovács, L.; and Pataki, B.}, 2006.
+\newblock Tillarom: an ajax based folk song search and retrieval system with
+  gesture interface based on kodály hand.
+\newblock \doi{10.1145/1178745.1178760}.
+
+\bibitem[{Norman(2010)}]{Norman2010}
+\textsc{Norman, D.~A.}, 2010.
+\newblock Natural user interfaces are not natural.
+\newblock \emph{Interactions}, 17, 3  (2010), 6--10.
+\newblock \doi{10.1145/1744161.1744163}.
+
+\bibitem[{Wilkins(2003)}]{Wilkins2003}
+\textsc{Wilkins, D.}, 2003.
+\newblock \emph{Why Pointing With the Index Finger Is Not a Universal (in
+  Sociocultural and Semiotic Terms)}, book section~8, 171--214.
+\newblock Psychology Press.
+\newblock ISBN 0805840141.
+
+\bibitem[{Wixon and Wigdor(2010)}]{WixonWigdor2010}
+\textsc{Wixon, D. and Wigdor, D.}, 2010.
+\newblock \emph{Brave NUI World}.
+\newblock 1 edn.
+
+\bibitem[{Woodward(1976)}]{Woodward1976}
+\textsc{Woodward, J.~C.}, 1976.
+\newblock Signs of change: Historical variation in american sign language.
+\newblock \emph{Sign Language Studies}, 10, 1  (1976).
+
+\end{thebibliography}

@@ -1,0 +1,283 @@
+\chapter{Implementation and Usage of Gestural Interfaces}
+\label{cha:implementation}
+
+\section{Pointing Interfaces}
+\label{sec:pointinginterface}
+
+
+\begin{comment}
+A description of the pointing interface
+    - Define it as a gesture for selection or indication (quote cassell here, and others can be added later)
+    - Recognize it's typical computer analogue in most pointing operations performed on a computer system, making up a core aspect of a WIMP interface besides typing
+    - "pointing" in the context of natural communication (find some citations to support this)
+    - Introduce 3D pointing in the context of computer systems.
+    
+    ^ above may belong in lit review, but write anyway
+   
+The implementation of our pointing interface
+    - Consideration of devices that allow for pointing
+    - Requirements of a pointing interface, and how we captured this info
+    - Engineering to make the solution better
+    - Technical limitations and how the work could be improved
+    
+The research
+    - How do users react to these interfaces
+    - Any benefits/downsides to this paradigm over typical computer usage
+    - Expected applications (with citations)
+    
+        - The INTERACT 2013 paper :) A longer cut, with deeper analysis of the results and more discussion. Remove
+        lit review etc.
+
+
+- Introduce pointing interfaces as the topic of discussion
+	- To be written after previous chapter has been written
+
+- What is a pointing interface
+\end{comment}
+
+
+\subsection{Implementation}
+
+We define pointing interfaces in terms of a deictic gesture. A deictic gesture can be defined as any physical movement that indicates to the observer something of relevance within the context of the communication. In the context of a computer system, such gestures are used to indicate to the system an item or area that the user wishes to interact with. This is accomplished by moving a digital 'cursor' to the location of interact before performing an operation such as a mouse click to signal to the system the interaction to be performed at this area. 
+
+The analogous deictic gesture used in inter-personal communication is seen in the form of a physical movement to provide a directional or locational indication to the interlocutor [Cassell 1990]. Most unambiguously, an outstreched arm pointing at an object indicates it's significance, but a more subtle movement of the finger, head or even other parts of the body can be used in making this indication. In disambiguating the meaning of the gesture, the converser can explain the purpose of the communication ("I want that one", "It's in that direction"), \fix{cumbersome wording} or such context can be gained from earlier conversation.
+
+There are a number of features of deictic gesturing between humans that is lacking in a WIMP interface in terms of expressiveness and semantic information conveyed. Both draw attention to a place or thing, then indicate the significance of their indication, but there are some degrees of expressiveness physical gesturing affords that a mouse cannot. A physical gesture can indicate additional information in a conversation through the manner of the point, particularly in it's obviousnes to the observer; an important or rushed gesture can be made more exuberantly. Conversely, a point designed not to draw the attention of other observers or that of a sensitive nature may be made with a subtle head movement or even a break in eye contact to discreetly convey additional information. Pointing can also be accompanied with disambiguating information, in the event a precise point is difficult to perform. For example, if attempting to differentiate a choice on a number shelves, spoken text indicating the item's colour or relative position to clarify the gesture. The point can also be given additional meaning through descriptive conversation; when providing instructions the deictic gesture may only be able to indicate directionality but additional instruction like 'at the end of that street, then to the left' can be used not only to make more sense of the gesture but to allow the gesture further expressiveness, such as pointing in which direction to turn.
+
+Overall in spoken communication, deictic gestures can be given a high degree of expressiveness due to the properties of body articulation and additional commands to which a computer deictic gesture traditionally lacks. A mouse is able to indicate a specific point on a screen to interact with, then have a reasonably finite and very discrete methods of expressing intent. For the majority of computer use, this is perfectly appropriate as ambiguity is not a natural interact with such systems, and most humans operate computers as they would a tool rather than as an intelligent entity they give vague commands to.
+
+This section discusses a 3D pointing interface for a computer system. Such an interface is one that allows users to perform pointing tasks typically accomplished with a mouse or other device in a similar manner to the way one performs pointing in spoken conversations. Such interfaces began with an early system developed by Bolt et al. [1980] in which a large projected screen displayed a number of entities that could be interacted with by pointing at them and providing a verbal command, such as "Put that there" or "Make an orange triangle". The system allowed for relative commands more akin to natural language, blending the benefits of natural communication with a computer system. For example, referencing prior events in a computer system is usually cumbersome where it is much easier in conversation, so being able to refer to 'the first one I created' for example allows for more flexibility. Likewise, the imprecision of pointing allows for more broad commands that a precise pointing system such as a mouse disallows. The paper specifies commands relating to relative position is possible, for example asking a system to move something to the left or beneath another entity. Given pointing is typically far less precise, this provides an additional versatility to the system.
+
+Such interfaces can also be used to add functionality into the real world. A number of systems exist where the user is able to point of a physical object in view of the system to indicate specified functionality. Early examples of this system had large limitations, such as in [citation needed] where the view did not extend beyond a stereo camera in a small region, meaning only objects in view of the camera that the computer was aware of could be interacted with. Later systems can make use of more complex locational systems and detachable widgets to allow ubiquitous interaction [no reference even found but this must exist]. A computer system can interact with an environment using an interface but this method of interaction removes that layer, allowing for more direct control over behaviour. Applications for this include [citations needed]. \fix{This is really lit review stuff... not sure it belongs here.}
+
+Other such interfaces use pointing in 3D space to refer to objects within a virutal environment, particular 3D environments. \fix{citation needed, hand in 3D environment} presented a system in which interaction with objects was provided by a virtual hand in the computer system, capable of making movements and selections in 3-dimensional space. This provides a solution to the issue of perform 3D selections, given most selection devices only have 2 dimensions of recordable movement, though this style of interface raises an immediate question about the role of pointing in computer interactions.
+
+As previously stated, users will perform a pointing interaction either using a tool to accomplish a task, or as a gesture to further communication. Pointing in a 3D computer environment in most cases operates using similar rules and systems one uses, such as selection, movement, creation and destruction of entities, but there is no longer a tool and instead a communication mechanism has been appropriated for the task. Most specifically, the use of a physical object which is most associated with interactions with such tools is entirely absent in these systems; and while some require a peripheral such as a dataglove to record the purpose of the interaction \fix{this probably requires it's own, albeit brief section}, the users hands are free when performing the interaction. In interfaces where operating or manipulating virtual objects is a focus, this form of interaction leans more towards tool manipulation rather than communication.
+
+Tool manipulation in the context of pointing interfaces remains an open question \fix{cumbersome phrase}. Without an object of manipulation, the method of indicating the interaction to the computer, as a mouseclick or keyboard command would, now falls to a different modality. Complicating the issue, if the position of a users hand is now used by the system to determine the pointing location, the hand is not free to use another device unless it is attached or carried while performing the pointing. The alternative to this is the performance of a hand gesture small enough to not reduce the accuracy of the pointing.
+
+\textit{The section here must lead into the design. Possibilities:
+\begin{itemize}
+\item Discuss the research questions- lead into experimental? But then how do we section/rediscuss without treading old ground
+\item Consider points a design issue in making such interface (then discuss solution in terms of experiment, or how to solve that problem)
+\end{itemize}}
+
+\subsection{Design}
+
+The first consideration for implementing a pointing interface is whether or not to use a relative or absolute model for pointing:
+
+A relative pointing model is one where the movement of the users hand corresponds to a similar movement of the pointer on the display area. This is the modus operandi for the majority of such interfaces due to the simplicity in implementation and the flexibility of the model. A relative pointing system simply has to measure movement, so devices like accelerometers or LED sensors can implement recognition very trivially. The interpretation of movement also allows for factors like pointer ballistics to be used in improving the user experience.
+
+The measurement of relative movement can either be unspecified or relative to a particular position. An unspecified relation of movement is the manner mouses and the accelerometers on smart phones work, where the rate of movement and the previous position of the cursor is the only consideration in where the cursor will next appear. This system has the disadvantage that such movement is typically unbounded, so some measure is needed to allow the user to 'reset' the mouse position, or to move the physical device without changing the position of the cursor \fix{I haven't really discussed cursors, probably for above sections}.
+
+Some relative pointing interfaces have their cursor placed in relation to another position, which can be seen in devices like the Leap Motion or the Kinect in their typical interfaces. In the former example, the camera captures a specific area that has no relation with the screen itself and recognizes a hand position. The position of the cursor is the hand's position in relation to the sensor position. In the case of the Kinect, using the interface to navigate menus on the Xbox 360, the position of the cursor is the hand's position relative to the rest of the body. This gives the interface additional flexibility, given the hand is the mode used for interaction; it negates the requirement for the user to move to another position to interact with the system, and it allows the user to move freely within the space.
+
+An absolute pointing interface can be considered a subset of the a relative interface\fix{Can we save 'the above'? How do I cross-reference things I've said in my thesis?}. Such a system allows users to point in the physical space directly at objects they wish to interact with; if they are indicating towards a shape on a screen, they would point in the direction that shape is in physical space to make reference to it.\fix{This whole paragraph is terrible. Needs to be completely rewritten} Unlike relative pointing, which has a layer of interface between the user and interactivity, this model allows users to interact with the system and its icons directly. While this is best known and most successful in the space of touch-screen interaction, we are considering touchless interfaces which are different both in the implementation required and the challenges faced. \fix{Is this necessary?}
+
+\textit{Further background, particularly into challenges and issues for absolute pointing interfaces}
+
+This system focuses on the development of an absolute pointing interface. We are interested in this because \textit{The reason we are interested in this, again referencing research question, or some other way?}. In a relative pointing interface, the user has no direct connection with the screen they're working with, as all interaction occurs on a relative plane of motion rather than the one the user physically occupies. The user thus does not interact with the display surface itself, and the relation is 
+
+The ultimate goal of the system was to have the system work as an absolute 3D pointing interface; the user should be able to point their hand, arm, finger etc. at the screen and the area they pointed at in physical space should be the area that is then selected, highlighted or has the appropriate operation performed on it. 
+
+\subsection{Implementation Methodology}
+
+To begin, our system requires a method of capturing the position of the users arm and body; this allows us to compute the direction of the point. A depth camera or colour camera can be used to determine this information using \fix{This is too vague} Computer Vision techniques, and other devices like IR sensors and emitters can work to similar effect, but a well\-supported, accurate and low\-cost alternative is the Microsoft Kinect. This device has both a standard colour camera that collects colour data, and a depth camera, as well as an API and set of libraries that convert the video footage into a 'skeleton stream', which identifies any humans in range of the cameras and returns a series of 3D vectors in the camera space that represent the position of all joints their bodies contain.
+%If we decided to keep these in we need to do the following:
+%  Add vertical space between each entry
+%  Add leading and trailing space between table
+%  Add titles and captions
+\fix{Kinect technical specifications}
+
+%\begin{table}[h]
+%\begin{tabular}{l l l}
+%	\hline
+%	Feature & Kinect for Windows 1 & Kinect for Windows 2 \\ \hline
+%	Color Camera & 640 \times 480 @30 fps & 1920 \times 1080 @30 fps \\
+%	Depth Camera & 320 \times 240 & 512 \times 424 \\ 
+%	Max Depth Distance & \sim4.5M & \sim4.5M \\ 
+%	Min Depth Distance & 40cm in near mode & 50 cm \\ 
+%	Horizontal Field of View & 57\deg & 70\deg \\ 
+%	Vertical Field of View & 43\deg & 60\deg \\ 
+%	Tilt Motor & yes & no \\ 
+%	Skeleton Joints Defined & 20 joints & 26 joints \\ 
+%	Full Skeletons Tracked & 2 & 6 \\ \hline
+%\end{tabular}
+%\caption{The technical specifications of the Kinect V1 and V2 for Windows}
+%\label{tab:KinectSpecifications}
+%\end{table}
+
+The kinect is placed next to a display surface with which the interface interacts. We assume for the sake of simplicity in implementation that the camera and the display surface are facing in the same direction, which is typical operating procedure for the device in typical application. We do not need to assume that the kinect is positioned on the same visible plane as the television, but for practical purposes this often produces a more accurate result. 
+
+The technical specifications of the Kinect can be seen in ~\ref{tab:KinectSpecifications}
+
+\fix{This whole section is too simple and too unjustified}
+With our interface, besides the immediate design constrictions \fix{Viable area to flesh out. What are the constructions?} we did not have any strict requirements on implementation. Consequently, an agile development \fix{citation needed} methodology was adopted. Agile development is a system of rapid prototyping, in which a small but achievable goal is stated for a simple prototype, which is then assessed according to the needs of the project to create an incremental goal for the next prototype. This looping phase of assessment and implementation allows a system to match the requirements of the project more closely, especially when the end user requirements of such a system are flexible early in the process.
+
+The process of design followed in this project began with assessing the initial needs of the project. These are outlined in ~\ref{sec:designconstraints} for this initial system. The basis for these constraints was constructed around the first experiment run, which is justified and discussed in ~\ref{sec:experimentone}. 
+
+\subsubsection{Design Constraints}
+\label{sec:designconstraints}
+
+The initial approach to the system had a number of key issues. Firstly, the Kinect has a limited field and range of view, and consequently it cannot perform accurate recognition for any object closer than 80 centimetres from the any sensor. The optimal capture distance for figures is between one and three metres. Having a desktop environment using this system is extremely difficult unless the Kinect is mounted at a further distance, as most users are rarely more than 50cm away from their screen or the capture device in regular computer usage. Consequently, the adaptation of this system for standard desktop use is quite challenging, unless manual figure recognition written for other camera arrangements is implemented. \fix{This doesn't make sense in context}
+
+The other major issue the Kinect has with figure recognition, particulary for precision input is the reasonably low resolution of the depth image used for figure recognition. With a field of viw of 57\degree x 43\degree, the depth camera is capable of capting an area of *some amount of metres* at 2 metres \fix{To calculate}. \fix{There's probably a good way of measuring this}. Consequently, small hand movements in front of a large monitor can have a very low resolution, measurable in pixels. If the display surface has a high resolution, and requires interaction within that resolution. At this level, a 100 x 50 button on a 1920 x 1080 monitor exists at a resolution the camera cannot read.
+
+The simplest solution is to increase the size of the monitor. By using a large wall-mounted display, the area of interaction is larger, which allows the user to make broader movements to reference the entire screen and consequently takes up more space. If the user is sufficiently close to the camera and the screen is large enough to take up most of the camera's field of view, precision can fall into about 2/3rds of the capacity of the Kinect camera, which is high enough for broad pointing. \fix{Tie in with previous calculation when complete}
+
+The later Kinect has improved hardware that mitigates this issue somewhat, but capturing fine hand movements for direct pointing interfaces remains a challenging task for a hands-free interface. \fix{short para}
+
+The next limitation is in combining pointing and interacting with this sort of interface. Once an item has been pointed at in an interface, the user will most likely want to perform some sort of interaction with it, which requires an additional input. Given the high precision required in movement to compensate for the low resolution of the screen, it is very challenging to perform recognizable gestures to the Kinect without changing the position of the hand; a common issue in gestural interfaces that integrate both pointing and interaction. \fix{Flesh out, citation needed} Consequently, a way of performing actions without engaging the pointing hand (or body part) directly in the interaction is necessary.
+
+There are several design solutions to this problem. As pointing is typically only performed with one hand in such interfaces (though exceptions exist, see \cite{Bolt1992}, the off-hand is free to perform other actions with the system, either the gestures necessary to interact with the system, or a 'halt' gesture to temporarily stop the pointing recognition so the user can perform other interactions. Another possible solution is to have all gestures be performed solely with the left hand, using a bi-modal interface. While broadly solving the issue, it increases the cognitive load \fix{Incorrect terminology. Find references to support} on the user having to do two things at once, and also limits possible interactions to some degree.
+
+Another solution involves the integration of pointing and manipulation into the same gesture. If pointing is possible with a broad set of gestures and a high level of both accuracy and durability can be relied upon from the recognition, the pointing hand itself can perform the actual interaction. This has the benefit of being the most accurate metaphor for pointing interaction; typically when a person attempts to access or manipulate an object in real life, the hand that is reaching for that object will also perform the interaction itself, such as picking it up or somehow manipulating it. This would therefore appear to be the most attractive option for our system but it comes with several large caveats. The first is that by having the hand perform the interaction as well as the pointing, it needs to be clear that whatever the hand is doing does not interfere with the pointing as well; outside of very simple finger gestures like gripping and releasing the hand, many gestures require wrist or even arm movement to perform, and this would also change the location of the point by the time the gesture is finally recognized, which leads to usability issues. Even small movements might change the recognition sufficiently, if the target object is small or the recognition is very sensitive. This solution is technically the most desirable but practically would have to be combined with the previous suggestion to be workable.
+
+The solution we eventually went with was the simplest but also the most limited. In addition to pointing with the favoured hand, the participant would hold a physical device like a mouse, a remote-control or something similar. This device should be able to be held comfortably in a number of different hand positions and orientations, and have buttons that can activate certain functions from within the interface. This minimises the challenge associated with performing gestures with both hands and also makes the interactions very easy to perform, as buttons are a very easy vector of interaction. The interaction set is limited to the number of inputs the remote is capable of registering, but it can be extended using chording combinations, menus and other features typically seen in pointer-based interfaces \fix{Phrasing}. Having an easy-to-manipulate object ensures pointing accuracy is not sacrified in performing interactions, so it satisfies this limitation sufficintly for our purposes.
+
+This prototype has other benefits for experimental purposes that will be discussed later in the chapter.
+
+The final constraint with our implementation was for the system to have very broad, and customizable recognition. For the system to be appropriate for experimentation, it was necessary for a variety of different interpretations of how to point at the computer screen was necessary. This required the system to calibrate to the user, which required a variety of different methods of pointing to be valid and recognizable with comparable degrees of accuracy. In achieving this, our system would be suitable for observing user variation in pointing gestures.
+
+\subsubsection{Pointing Recognition}
+
+Our system design called for the use of an absolute pointing interface; the position of the pointing is relative to the user's world space rather than the system's interpretation of that space. \fix{better define 'world space', and clarify this terminology}.
+
+The Kinect skeleton stream is capable of capturing the vector positions relative to the camera, so these allow us to create reference points for a pointing direction. We take two points on the skeleton model and use this to compute a vector that defines the direction the user is pointing. The terminating point of the gesture should be the end of the pointing hand, but the starting point is debatable; the wrist, elbow, shoulder, or even the head can be used appropriately. The most flexible system would make use of the wrist as this allows delicate and ergonomic flexion, but this measure is inappropriate as the hand frequently occludes the wrist when the hand is facing the camera, making tracking and precision difficult. The elbow is very similar to the wrist, but the small wrist movements would only be interpreted as tiny changes rather than large ones.
+
+Using the head as the starting point is also very attractive as this is how many people point naturally when drawing attention to something specific. In typical non-verbal communication, someone might draw attention to something in the distance or small in the sky by raising their arm straight and pointing direct at it, positioning their head on their shoulder so they are looking exactly where the arm is pointing, so if drawing an imaginary line from head through hand, it would intersect the object. This is the most natural system but it has the disadvantage of being used specifically for this kind of communication \cite{Argyle1998}, where more casual pointing, such as to an area or nearby location, would not use this system. The use case was considered too specific, and thus we did not consider it.
+
+Therebesides, the purpose of this gesture is to ensure the arm itself is the vector, rather than hand to head. For this reason we consider the shoulder to be the most appropriate joint to begin the gesture. It allows both long arm pointing and short arm pointing with reasonable precision, it is close to the eye so the gesture should always be visibly apparent to the user (a feature that using the elbow lacks). A similar approach was used in \cite{FukumotoEtAl1994}, and it was the approach we eventually took.
+
+With the localities of the vector specified, the task becomes computing where on a display the user is currently pointing, in the form of a 2D point in screen space. We can easily compute the intersection of the vector with a point on a 3D plane, and the easiest 3D plane to consider and compute is that which the Kinect itself occupies; we define the plane by it's origin (the Kinect's depth sensor) and it's normal (the direction the depth sensor is facing). The Kinect makes use of a lens for it's colour sensor, but the depth values for all joints are adjusted relative to this plane by the Kinect's SDK. This means that while it's not strictly necessary to use this plane for our system, it is convenient for minimizing occlusion, an issue that will be discussed in more detail later.\fix{Is this bad wording?}
+
+\fix{Need diagram!}
+
+To compute the location of the point, we first define the plane of intersection as
+
+\begin{equation}
+\mathbf{\vec{n}} \cdot (p - p_0) = 0 
+\end{equation}
+
+where \(\mathbf{\vec{n}}\) is a normal vector representing the facing of the depth camera, \(\mathbf{p}\) and \(\mathbf{p_0}\) are two arbitrary points on that plane. For convenience we use the origin of the depth camera for \(\mathbf{p_0}\).
+
+We next define the point we wish to find, the intersection of the pointing vector \(\hat{s}\) with the plane, referred to as \(s_p\). These are defined as:
+
+\begin{equation}
+s_p = d \hat{\mathbf{s}} + s_e
+\end{equation}
+
+where \(\hat{s} = \frac{s_h - s_e}{||s_h - s_e||}\) and \(d = ||s_e - s_p||\).
+
+The pointing vector (and distance) can be found through algebraic substution:
+
+\(\mathbf{\vec{n}} \cdot (d\hat{\mathbf{s}} + s_e - p_0) = 0\)
+
+\(\mathbf{\vec{n}} \cdot d\hat{\mathbf{s}} n \cdot (s_e - p_0) = 0\)
+
+\(d = \frac{\mathbf{\vec{n}} \cdot (p_0 - s_e)} {\mathbf{\vec{n}} \cdot \mathbf{\hat{s}}}\)
+
+\(s_p = \frac {\mathbf{\vec{n}} \cdot ( p_0 - s_e)} {\mathbf{\vec{n}} \cdot \mathbf{\hat{s}}}\)
+
+\fix{Factor in use of ASM math; default math too messy}
+
+This provides us with a world-space point on overall plane where the pointing vector intersects the plane. For a true absolute pointing system however, this is not quite enough to ensure accuracy. Firstly, the display surface must also be on the plane of intersection, so for this reason the kinect should be position on the same plane as the display surface, and facing in as close to the exact same direction as is possible.\fix{diagram?}
+
+In the above calculation, we used \(p_0\) to indicate the centre of the plane relative to the Kinect. All values are relative to this central point from the perspective of the Kinect, so if for example typical screen coordinates were being used, the kinect sensor would have to be exactly on the top left corner of the display surface. As well as being a practical impossibility, there are issues with having the Kinect sensor facing directly at the user. Instead, the points must be transposed to within the bounds of a space on the plane that represents the screen's coordinates.
+
+When operating a system, these bounds must be specified by the user through a calibration. A robust calibration process is necessary to account for the need for direct pointing, mobility limitations in the pointing limb and other environmental factors. In the calibration, the user points to each of the four corners of the display surface with their arm. These four points do not form a perfect rectangle in world space in most calibrations; Figures 1 and 2 \fix{Include these figures} show two such calibrations, and the shape the pointing produces.
+
+As the space that the point falls into isn't reliabily mappable with this function, we must translate the position of each individual point from within the calibrated space to a screen rectangle. Our method of doing so is by defining a screen rectangle, \(\mathbf{J'}\) with it's position being the extreme-most dimensions of the calibration quadrilateral \(\mathbf{J}\):
+
+\begin{equation}
+\mathbf{J} = J_1 J_2 J_3 J_4
+\end{equation}
+
+\begin{equation}
+\mathbf{J'} = J'_1 J'_2 J'_3 J'_4
+\end{equation}
+
+Computing each point in \(\mathbf{J'}\) is done in this fashion:
+
+\begin{equation}
+J'_1 = (min(J_1x, J_2x, J_3x, J_4x), min(J_1y, J_2y, J_3y, J_4y)) etc.
+\end{equation}
+
+This defines \(\mathbf{J'}\) as containing \(\mathbf{J}\) \fix{diagram}, with at least two points in \(\mathbf{J}\) lying on a side of the rectangle.
+
+For each corner of rectangle \(\mathbf{J}\), there exists a vector (for example \(\vec{\mathbf{J_2 J'_2}}\)) that can be used to translate them to their equivalent point in \(\mathbf{J'}\).
+
+With this specified, an algorithm is necessary to translate any point \(\mathbf{Q}\) that lies within \(\mathbf{J}\) to a corresponding location in \(\mathbf{J'}\). Our approach to this is to create a new translate vector, \(\mathbf{\vec{QQ'}}\) that is weighted according to the distance between each of the four corners. If, for example,  \(\mathbf{Q}\) is a corner in \(\mathbf{J}\), we would simply use the appropriate translation to map it directly to the equivalent corner in \(\mathbf{J'}\), but if it lies midway between two points, we would need to use a translation vector equal to the sum of half of the two corner translation vectors to place it in the appropriate position. The distance between the two points determines how much each vector should be weighted in translation.
+
+\begin{equation}
+\mathbf{D} = \{||\mathbf{\vec{QJ_1}}||, ||\mathbf{\vec{QJ_2}}||, ||\mathbf{\vec{QJ_3}}||, ||\mathbf{\vec{QJ_4}}||\} 
+\end{equation}
+\begin{equation}
+Sum = \sum^{n}_{i=1} \mathbf{D}_i
+\end{equation}
+\begin{equation}
+\mathbf{\vec{QQ'}} = \sum^{n}_{i=1} \mathbf{\vec{J_i J'_i}} \times (1 - \frac{\mathbf{D}_i} {Sum})
+\end{equation}
+
+
+\fix{We're using a mix of mathematic and computer notation here. I should use one style and stick with it; choose which and sort out how to do it correctly}
+
+This calibration process remains imperfect however. It assumes that the quadrilateral traced by users does not have curved sides, which is far less likely given the initial unequal shape of the rectangle is produced by being off-centre to the camera, curvature of arm movements and limitations in mobility when standing stationary. The compromise method was chosen because the consistency of such a shape can't be guaranteed, even with multiple performances, and having too complex calibration process would interfere with usability. Additionally, the position the user is standing in would have a strong impact on the overall shape, so such a process may lead to more inaccuracies than it solves. Conversely, a simpler calibration process would fail to capture the overall shape of the display when traced, which we consider the most crucial aspect of the calibration, so this process is considered a compromise between the two extremes.
+
+\subsubsection{Practical Issues}
+
+The Kinect skeletal tracking system assigns a recognized skeleton 3D positions for each joints, along with one of three different states: Tracked, Not Tracked and Inferred. A tracked point is one in which the Kinect can determine where a joint should be on a body, and that point is visible to the camera. This is not always the case; through body movements, various joints or parts of the bodies can be obscured through natural movement, for example standing at an angle to the Kinect hiding one part of the body or having hards move in front of or over each other when gesturing. This is referred to as occlusion of the joint, and without a physical reference point as to where the point is in space, the Kinect must attempt to estimate where it would be. All joints that are occluded, or are otherwise having difficulty being recognized by the Kinect (different body types, unusual posture etc.) change the state of a joint from Tracked to Inferred. While this is not an issues for short periods of time, joints tracked by inferrence cannot be relied upon for accuracy for any period of time, so such movements should be avoided during regular usage. For this reason it is recommended users stand at a certain distance from the Kinect so no part of the body is out of the viewing angle of the camera and the body is not so distant as to lower tracking precision, as well as facing the camera forwards and not wearing obstructive clothing.
+
+One issue with using pointing gestures, especially direct pointing gestures with the Kinect is the high incidence of occlusion. If a whole-arm pointing gesture is used, where the arm forms a straight line between the shoulder and hand, the elbow and shoulder both have the potential to be occluded from the camera. As the precision of the shoulder position is necessary to ensure the point direction is correct, this leads to high levels of unreliability in the computed vector, worsening the user experience. Direct pointing is especially susceptible to these imprecisions, as the vector calculation relies upon the difference between the \(s_h\) and \(s_h\), which is a very small distance compared the length of \(\mathbf{\vec{s_p}}\), so even small variations can lead to high levels of imprecision. Consequently, the Kinect cannot be centrally placed, and instead the final result must be transposed to the display surface.
+
+The last major issue with the system is the resolution of the Kinect Depth Camera. At the highest setting, the IR lens captures images at a resolution of 640 x 480 which in turn limits how precisely joints can be detected and positioned in space. Making this issue worse is the fact that most of this space is not utilized for an absolute pointing space, instead only a rectangle within that a little larger than the user themselves. In Figure 1 \fix{Add figure}, a user stands 1.4m away from a camera sensor when calibrating, with each circle representing an individual point on a 17" laptop monitor. Translated to a screen rectangle as above, all pointing interactions are recognized and occur within an 85x50 pixel window of the overall image, which is a very low resolution. When including factors like involuntary muscle movements from the user, the precision of the system is very low.
+
+The only practical solution to this problem is a much larger area for recognition, and to encourage this we used large-screen displays or wall projections to ensure the display is large enough that users are compelled to make larger movements when pointing to each corner during calibration.
+
+\section{System Performance}
+
+\begin{todoenv}
+
+This section can give some basic metrics, displays and information about how the system itself is working. This should include: how the system typically functions, constraints on its behaviour, accuracy- a basic Fitts's Law analysis here will provide that information clearly enough. This should serve as an appopriate conclusion.
+
+\end{todoenv}
+
+\fix{How do I bookend this chapter??}
+
+%\section{Perception and understanding of gestural system}
+%\label{sec:perception}
+
+%\section{Inherent user variation}
+%\label{sec:variation}
+
+%\section{"Perception" and how users view a system}
+%\label{sec:perception}
+
+%Table~\ref{tab:machines} shows how to include tables and Figure~\ref{fig:helloworld} shows how to include codes.
+%\begin{table*}
+%  \centering
+%  \input table/machines.tex
+%  \caption{Processors used in our evaluation.}
+%  \label{tab:machines}
+%\end{table*}
+
+%\begin{figure}
+%  \centering
+%  \subfigure[\label{fig:c:hello}]{
+%  \begin{minipage}[b]{\columnwidth}
+%    \lstinputlisting[linewidth=\columnwidth,breaklines=true]{code/hello.c}\vspace*{-2ex}
+%  \end{minipage}}
+%  \subfigure[\label{fig:java:hello}]{
+%  \begin{minipage}[b]{\columnwidth}
+%    \lstinputlisting[linewidth=\columnwidth,breaklines=true]{code/hello.java}\vspace*{-2ex}
+%  \end{minipage}}
+%  \caption{Hello world in Java and C.}
+%  \label{fig:helloworld}
+%\end{figure}
+
+
+
+%%% Local Variables: 
+%%% mode: latex
+%%% TeX-master: "paper"
+%%% End: 

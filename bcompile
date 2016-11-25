@@ -1,0 +1,7 @@
+echo "Compiling thesis.tex ...";
+python3 biblabel.py -v -r -o thesis.bib PhDLibrary.txt
+pdflatex thesis.tex;
+bibtex thesis.aux;
+pdflatex thesis.tex;
+pdflatex thesis.tex;
+xpdf thesis.pdf;

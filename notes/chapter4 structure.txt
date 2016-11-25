@@ -1,0 +1,37 @@
+Section organiziation (notes for today's meeting):
+
+Structuring of chapter 4, and how to tie the various threads of narrative together into a cohesive body:
+
+System Development (the following points must be covered):
+
+- Background:
+    - Why a pointing interface?
+    - Differences between relative and absolute pointing
+    - Pros/cons of both approaches
+    - Why we chose absolute pointing
+- Implementation
+    - The technology used (Kinect, hand devices etc.)       
+    - Initial approach, 2D with no directionality, how this related to relative pointing
+        - Coherent chunk; limitations specified, and why we dropped it. ALL in one section
+    - Later approach, pointing with raycasting
+    - Implementation behind raycasting
+    - Adjusting for screen/kinect disparity
+    - Assumptions made in implementation    
+- Limitations of final system
+    - Issues with initial system
+    - Overcoming issues (moving to second system)
+    - Technical limitations
+    - Interface limitations
+- Devices
+    - Air mouse
+    - Finger mouse
+    - P5 Glove
+    - Wand
+    - Myo
+- Testing
+
+Questions:
+
+- Discussion of how the interface was developed
+    - Specification approach:
+        - Interface

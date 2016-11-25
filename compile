@@ -1,0 +1,3 @@
+echo "Compiling thesis.tex ...";
+pdflatex thesis.tex;
+xpdf thesis.pdf;

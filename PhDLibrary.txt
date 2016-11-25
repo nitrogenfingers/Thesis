@@ -1,0 +1,1949 @@
+﻿@article{
+   author = {Angus, I.G. and Sowizral, H. A.},
+   title = {Embedding the 2D interaction metaphor in a real 3D virtual environment},
+   journal = {Proc. SPIE 2409, Stereoscopic Displays and Virtual Reality Systems 2},
+   DOI = {doi:10.1117/12.205875},
+   year = {1995},
+   type = {Journal Article}
+}
+
+@book{
+   author = {Argyle, Michael},
+   title = {Bodily Communication},
+   publisher = {Methuen & Co},
+   address = {New York},
+   edition = {2},
+   year = {1988},
+   type = {Book}
+}
+
+@article{
+   author = {Argyle, Michael and Dean, Janet},
+   title = {Eye-Contact, Distance and Affiliation},
+   journal = {Sociometry},
+   volume = {28},
+   number = {3},
+   pages = {289-304},
+   abstract = {Previous evidence suggests that eye-contact serves a number of different functions in two-person encounters, of which one of the most important is gathering feed-back on the other person's reactions. It is further postulated that eye-contact is linked to affiliate motivation, and that approach and avoidance forces produce an equilibrium level of physical proximity, eye contact and other aspects of intimacy. If one of these is disturbed, compensatory changes may occur along the other dimensions. Experiments are reported which suggest that people move towards an equilibrium distance, and adopt a particular level of eye-contact. As predicted, there was less eye contact and glances were shorter, the closer two subjects were placed together (where one member of each pair was a confederate who gazed continuously at the other). The effect was greatest for opposite-sex pairs. In another experiment it was found that subjects would stand closer to a second person when his eyes were shut, as predicted by the theory.},
+   ISSN = {00380431},
+   DOI = {10.2307/2786027},
+   url = {http://www.jstor.org/stable/2786027},
+   year = {1965},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Athitsos, Vassilis and Wang, Haijing and Stefan, Alexandra},
+   title = {A database-based framework for gesture recognition},
+   journal = {Personal Ubiquitous Comput.},
+   volume = {14},
+   number = {6},
+   pages = {511-526},
+   ISSN = {1617-4909},
+   DOI = {10.1007/s00779-009-0276-x},
+   year = {2010},
+   type = {Journal Article}
+}
+
+@misc{
+   author = {Baumgartner, Sebastian and Ebert, Achim and Deller, Matthias and Agne, Stefan},
+   title = {2D meets 3D: a human-centered interface for visual data exploration},
+   publisher = {ACM},
+   pages = {2273-2278},
+   DOI = {10.1145/1240866.1240993},
+   year = {2007},
+   type = {Conference Paper}
+}
+
+@misc{
+   author = {Baytaş, Mehmet Aydın  and Yemez, Yücel  and Özcan, Oğuzhan},
+   title = {Hotspotizer: end-user authoring of mid-air gestural interactions},
+   publisher = {ACM},
+   pages = {677-686},
+   DOI = {10.1145/2639189.2639255},
+   year = {2014},
+   type = {Conference Paper}
+}
+
+@inbook{
+   author = {Bennett, Mike and McCarthy, Kevin and O’Modhrain, Sile and Smyth, Barry},
+   title = {SimpleFlow: Enhancing Gestural Interaction with Gesture Prediction, Abbreviation and Autocompletion
+Human-Computer Interaction – INTERACT 2011},
+   editor = {Campos, Pedro and Graham, Nicholas and Jorge, Joaquim and Nunes, Nuno and Palanque, Philippe and Winckler, Marco},
+   series = {Lecture Notes in Computer Science},
+   publisher = {Springer Berlin / Heidelberg},
+   volume = {6946},
+   pages = {591-608},
+   keywords = {Computer Science},
+   ISBN = {978-3-642-23773-7},
+   DOI = {10.1007/978-3-642-23774-4_47},
+   url = {http://dx.doi.org/10.1007/978-3-642-23774-4_47},
+   year = {2011},
+   type = {Book Section}
+}
+
+@inbook{
+   author = {Beringer, Nicole},
+   title = {Evoking Gestures in SmartKom - Design of the Graphical User Interface},
+   booktitle = {Gesture and Sign Language in Human-Computer Interaction},
+   editor = {Wachsmuth, Ipke and Sowa, Timo},
+   series = {Lecture Notes in Computer Science},
+   publisher = {Springer Berlin Heidelberg},
+   volume = {2298},
+   chapter = {25},
+   pages = {228-240},
+   ISBN = {978-3-540-43678-2},
+   DOI = {10.1007/3-540-47873-6_25},
+   url = {http://dx.doi.org/10.1007/3-540-47873-6_25},
+   year = {2002},
+   type = {Book Section}
+}
+
+@article{
+   author = {Blackwell, John R. and Kornatz, Kurt W. and Heath, Edward M.},
+   title = {Effect of grip span on maximal grip force and fatigue of flexor digitorum superficialis},
+   journal = {Applied Ergonomics},
+   volume = {30},
+   number = {5},
+   pages = {401-405},
+   abstract = {The aim of this study was to investigate the effect of grip span on isometric grip force and fatigue of the flexor digitorum superficialis (FDS) muscle during sustained voluntary contractions at 60–65% of the maximal voluntary contraction (MVC). Eighteen subjects performed isometric, submaximal gripping contractions using a grip dynamometer at four different grip span settings while the pronated forearm rested on a horizontal surface. Maximal absolute grip force and median power frequency of FDS surface electromyography (EMG) during the submaximal trials were analyzed. Fatigue of FDS, as inferred from EMG frequency shifts, did not change as a function of grip size. However, middle grip sizes allowed for greater absolute forces than the small or large size. When contractions are at 60–65% MVC and the muscle is allowed to fatigue, however, grip size may be less influential than when maximal absolute force is required.},
+   keywords = {Grip
+Fatigue
+Force},
+   ISSN = {0003-6870},
+   DOI = {http://dx.doi.org/10.1016/S0003-6870(98)00055-6},
+   url = {http://www.sciencedirect.com/science/article/pii/S0003687098000556},
+   year = {1999},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Bohannon, Richard W},
+   title = {Test-Retest Reliability of Hand-Held Dynamometry During a Single Session of Strength Assessment},
+   journal = {Physical Therapy},
+   volume = {66},
+   number = {2},
+   pages = {206-209},
+   year = {1986},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Bolt, Richard A.},
+   title = {"Put-that-there": Voice and gesture at the graphics interface},
+   journal = {SIGGRAPH Comput. Graph.},
+   volume = {14},
+   number = {3},
+   pages = {262-270},
+   ISSN = {0097-8930},
+   DOI = {10.1145/965105.807503},
+   year = {1980},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Bolt, Richard A. and Herranz, Edward},
+   title = {Two-handed gesture in multi-modal natural dialog},
+   journal = {Proceedings of the 5th annual ACM symposium on User Interface Software and Technology},
+   pages = {7-14},
+   year = {1992},
+   type = {Journal Article}
+}
+
+@inproceedings{
+   author = {Boubguira, Wafia and Kholladi, Mohamed-Khireddine},
+   title = {Metric Quantization for Digital Accuracy of Gesture},
+   booktitle = {Interational Symposium on Modelling and Implementation of Complex Systems},
+   volume = {2},
+   year = {2012},
+   type = {Conference Proceedings}
+}
+
+@misc{
+   author = {Bowman, Doug A.  and Hodges, Larry F. },
+   title = {An evaluation of techniques for grabbing and manipulating remote objects in immersive virtual environments},
+   publisher = {ACM},
+   pages = {35-ff.},
+   DOI = {10.1145/253284.253301},
+   year = {1997},
+   type = {Conference Paper}
+}
+
+@article{
+   author = {Bowman, Doug A. and Hodges, Larry F.},
+   title = {Formalizing the Design, Evaluation, and Application of Interaction Techniques for Immersive Virtual Environments},
+   journal = {Journal of Visual Languages & Computing},
+   volume = {10},
+   number = {1},
+   pages = {37-53},
+   abstract = {Immersive virtual environments (VEs) have potential in many application areas, but many complex VE systems exhibit usability and interaction problems. This is partly due to a lack of consideration or understanding of 3D interaction tasks and techniques. This paper proposes the systematic study of the design, evaluation, and application of VE interaction techniques. In this methodology, design and evaluation are based on a formal task analysis and categorization of techniques, using multiple performance measures. As a direct consequence of our use of this methodology, we also present a variety of novel designs and evaluation results with respect to interaction techniques for three common VE tasks.},
+   ISSN = {1045-926X},
+   DOI = {http://dx.doi.org/10.1006/jvlc.1998.0111},
+   url = {http://www.sciencedirect.com/science/article/pii/S1045926X98901112},
+   year = {1999},
+   type = {Journal Article}
+}
+
+@misc{
+   author = {Cabral, Marcio C.  and Morimoto, Carlos H. and Zuffo, Marcelo K.},
+   title = {On the usability of gesture interfaces in virtual reality environments},
+   publisher = {ACM},
+   pages = {100-108},
+   DOI = {10.1145/1111360.1111370},
+   year = {2005},
+   type = {Conference Paper}
+}
+
+@misc{
+   author = {Cao, Xiang and Balakrishnan, Ravin},
+   title = {Evaluation of an on-line adaptive gesture interface with command prediction},
+   publisher = {Canadian Human-Computer Communications Society},
+   pages = {187-194},
+   year = {2005},
+   type = {Conference Paper}
+}
+
+@misc{
+   author = {Cao, Xiang and Zhai, Shumin},
+   title = {Modeling human performance of pen stroke gestures},
+   publisher = {ACM},
+   pages = {1495-1504},
+   DOI = {10.1145/1240624.1240850},
+   year = {2007},
+   type = {Conference Paper}
+}
+
+@inbook{
+   author = {Cassell, Justine},
+   title = {A Framework For Gesture Generation and Interpretation},
+   booktitle = {Computer Vision and Machine Interaction},
+   chapter = {11},
+   pages = {191-215},
+   year = {1998},
+   type = {Book Section}
+}
+
+@article{
+   author = {Catalan, J. A. and Jin, J. S. and Gedeon, T.},
+   title = {Reducing the Dimensions of Texture Features for Image Retrieval Using Multi-layer Neural Networks},
+   journal = {Pattern Analysis & Applications},
+   volume = {2},
+   number = {2},
+   pages = {196-203},
+   abstract = {This paper presents neural network-based dimension reduction of texture features in content-based image retrieval. In particular, we highlight the usefulness of hetero-associative neural networks to this task, and also propose a scheme to combine the hetero-associative and auto-associative functions. A multichannel Gabor-filtering approach is used to derive 30-dimensional texture features from a set of homogeneous texture images. Multi-layer feedforward neural networks are then trained to reduce the number of feature dimensions. Our results show that the methods lead to a reduction of up to 30% while keeping or even improving the performance of similarity ranking. This has the benefit of alleviating the ill-effects of the high dimensionality of features in current image indexing methods and resulting in significant speeding up retrieval rates. Results using principal component analysis are also provided for comparison.},
+   keywords = {Computer Science},
+   ISSN = {1433-7541},
+   DOI = {10.1007/s100440050028},
+   url = {http://dx.doi.org/10.1007/s100440050028},
+   year = {1999},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Cédras, Claudette  and Shah, Mubarak},
+   title = {Motion-based recognition: A survey},
+   journal = {Image and Vision Computing},
+   volume = {13},
+   number = {2},
+   pages = {129-155},
+   year = {1995},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Chaffin, Don},
+   title = {Localized Muscle Fatigue - Definition and Measurement},
+   journal = {Journal of Occupational Medicine},
+   volume = {15},
+   number = {4},
+   pages = {346-354},
+   ISSN = {0096-1736},
+   year = {1973},
+   type = {Journal Article}
+}
+
+@phdthesis{
+   author = {Cheng, Zishuo },
+   title = {Gesture Control in a Virtual Environment},
+   university = {Australian National University},
+   year = {2015},
+   type = {Thesis}
+}
+
+@article{
+   author = {Churchill, Elizabeth F.},
+   title = {Missing the point},
+   journal = {interactions},
+   volume = {18},
+   number = {5},
+   pages = {80-83},
+   ISSN = {1072-5520},
+   DOI = {10.1145/2008176.2008194},
+   year = {2011},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Cobb, Sue V. G. and Nichols, Sarah and Ramsey, Amanda and Wilson, John R.},
+   title = {Virtual Reality-Induced Symptoms and Effects (VRISE)},
+   journal = {Presence: Teleoperators and Virtual Environments},
+   volume = {8},
+   number = {2},
+   pages = {169-186},
+   ISSN = {1054-7460},
+   DOI = {10.1162/105474699566152},
+   url = {http://dx.doi.org/10.1162/105474699566152},
+   year = {1999},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Cootes, T. F. and Edwards, G. J. and Taylor, C. J.},
+   title = {Active appearance models},
+   journal = {Pattern Analysis and Machine Intelligence, IEEE Transactions on},
+   volume = {23},
+   number = {6},
+   pages = {681-685},
+   abstract = {We describe a new method of matching statistical models of appearance to images. A set of model parameters control modes of shape and gray-level variation learned from a training set. We construct an efficient iterative matching algorithm by learning the relationship between perturbations in the model parameters and the induced image errors},
+   keywords = {image matching
+image texture
+iterative methods
+learning (artificial intelligence)
+optimisation
+statistical analysis
+active appearance models
+deformable template
+gray-level variation
+iterative method
+learning
+model matching
+shape matching
+statistical models
+texture matching},
+   ISSN = {0162-8828},
+   DOI = {10.1109/34.927467},
+   year = {2001},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Coward, L. Andrew},
+   title = {The recommendation architecture: lessons from large-scale electronic systems applied to cognition},
+   journal = {Cognitive Systems Research},
+   volume = {2},
+   number = {2},
+   pages = {111-156},
+   abstract = {A fundamental approach of cognitive science is to understand cognitive systems by separating them into modules. Theoretical reasons are described which force any system which learns to perform a complex combination of real-time functions into a modular architecture. Constraints on the way modules divide up functionality are also described. The architecture of such systems, including biological systems, is constrained into a form called the recommendation architecture, with a primary separation between clustering and competition. Clustering is a modular hierarchy which manages the interactions between functions on the basis of detection of functionally ambiguous repetition. Change to previously detected repetitions is limited in order to maintain a meaningful, although partially ambiguous, context for all modules which make use of the previously defined repetitions. Competition interprets the repetition conditions detected by clustering as a range of alternative behavioural recommendations, and uses consequence feedback to learn to select the most appropriate recommendation. The requirements imposed by functional complexity result in very specific structures and processes which resemble those of brains. The design of an implemented electronic version of the recommendation architecture is described, and it is demonstrated that the system can heuristically define its own functionality, and learn without disrupting earlier learning. The recommendation architecture is compared with a range of alternative cognitive architectural proposals, and the conclusion reached that it has substantial potential both for understanding brains and for designing systems to perform cognitive functions.},
+   keywords = {Cognitive architectures
+Computational models
+Information context
+Functional modules},
+   ISSN = {1389-0417},
+   DOI = {10.1016/s1389-0417(01)00024-9},
+   url = {http://www.sciencedirect.com/science/article/pii/S1389041701000249},
+   year = {2001},
+   type = {Journal Article}
+}
+
+@misc{
+   author = {Coward, L. Andrew},
+   title = {Simulation of a Proposed Binding Model},
+   year = {2005},
+   type = {Conference Paper}
+}
+
+@article{
+   author = {Coward, L. Andrew and Gedeon, Tamas O.},
+   title = {Implications of resource limitations for a conscious machine},
+   journal = {Neurocomputing},
+   volume = {72},
+   number = {4–6},
+   pages = {767-788},
+   abstract = {A machine with human-like consciousness would be an extremely complex system. Prior work has demonstrated that the way in which information handling resources are organized (the resource architecture) in an extremely complex learning system is constrained within some specific bounds if the available resources are limited, and that there is evidence that the human brain has been constrained in this way. An architectural concept is developed for a conscious machine that is within the architectural bounds imposed by resource limitations. This architectural concept includes a resource driven architecture, a description of how conscious phenomena would be supported by information processes within that architecture, and a description of actual implementations of the key information processes. Other approaches to designing a conscious machine are reviewed. The conclusion is reached that although they could be capable of supporting human consciousness-like phenomena, they do not take into account the architectural bounds imposed by resource limitations. Systems implemented using these approaches to learn a full range of cognitive features including human-like consciousness would therefore require more information handling resources, could have difficulty learning without severe interference with prior learning, and could require add-on subsystems to support some conscious phenomena that emerge naturally as consequences of a resource driven architecture.},
+   keywords = {Consciousness
+Information model
+System resource architecture
+System design},
+   ISSN = {0925-2312},
+   DOI = {10.1016/j.neucom.2008.06.015},
+   url = {http://www.sciencedirect.com/science/article/pii/S0925231208004669},
+   year = {2009},
+   type = {Journal Article}
+}
+
+@misc{
+   author = {Cutler, Lawrence D. and Fröhlich, Bernd  and Hanrahan, Pat },
+   title = {Two-handed direct manipulation on the responsive workbench},
+   publisher = {ACM},
+   pages = {107-114},
+   DOI = {10.1145/253284.253315},
+   year = {1997},
+   type = {Conference Paper}
+}
+
+@inproceedings{
+   author = {Cutler, R. and Turk, M.},
+   title = {View-based interpretation of real-time optical flow for gesture recognition},
+   booktitle = {Automatic Face and Gesture Recognition, 1998. Proceedings. Third IEEE International Conference on},
+   pages = {416-421},
+   keywords = {image recognition
+image segmentation
+image sequences
+knowledge based systems
+real-time systems
+children
+context specific techniques
+interactive environment
+motion blobs
+optical flow estimation
+optical flow segmentation
+real-time view-based gesture recognition system
+relative motion
+relative size
+rule-based technique
+view-based real-time optical flow interpretation},
+   DOI = {10.1109/afgr.1998.670984},
+   year = {1998},
+   type = {Conference Proceedings}
+}
+
+@article{
+   author = {D’Mello, Sidney K. and Graesser, Arthur},
+   title = {Multimodal semi-automated affect detection from conversational cues, gross body language, and facial features},
+   journal = {User Modeling and User-Adapted Interaction},
+   volume = {20},
+   number = {2},
+   pages = {147-187},
+   keywords = {Multimodal affect detection
+Conversational cues
+Gross body language
+Facial features
+Superadditivity
+AutoTutor
+Affective computing
+Human-computer interaction},
+   ISSN = {0924-1868},
+   DOI = {10.1007/s11257-010-9074-4},
+   url = {http://dx.doi.org/10.1007/s11257-010-9074-4},
+   year = {2010},
+   type = {Journal Article}
+}
+
+@misc{
+   author = {Dachselt, Raimund and Buchholz, Robert},
+   title = {Natural throw and tilt interaction between mobile phones and distant displays},
+   publisher = {ACM},
+   pages = {3253-3258},
+   DOI = {10.1145/1520340.1520467},
+   year = {2009},
+   type = {Conference Paper}
+}
+
+@article{
+   author = {Dahlbäck, N. and Jönsson, A. and Ahrenberg, L.},
+   title = {Wizard of Oz studies — why and how},
+   journal = {Knowledge-Based Systems},
+   volume = {6},
+   number = {4},
+   pages = {258-266},
+   abstract = {Current approaches to the development of natural language dialogue systems are discussed, and it is claimed that they do not sufficiently consider the unique qualities of man-machine interaction as distinct from general human discourse. It is concluded that empirical studies of this unique communication situation are required for the development of user-friendly interactive systems. One way of achieving this is through the use of so-called Wizard of Oz studies. The focus of the work described in the paper is on the practical execution of the studies and the methodological conclusions drawn on the basis of the authors' experience. While the focus is on natural language interfaces, the methods used and the conclusions drawn from the results obtained are of relevance also to other kinds of intelligent interfaces.},
+   keywords = {interface design
+interface evaluation
+Wizard of Oz studies
+dialogue
+natural-language interfaces},
+   ISSN = {0950-7051},
+   DOI = {10.1016/0950-7051(93)90017-n},
+   url = {http://www.sciencedirect.com/science/article/pii/095070519390017N},
+   year = {1993},
+   type = {Journal Article}
+}
+
+@techreport{
+   author = {Ellis, T. O. and Heafner, J. F. and Sibley, W. L.},
+   title = {The GRAIL language and Operations},
+   institution = {RAND Corp Santa Monica CA},
+   year = {1969},
+   type = {Report}
+}
+
+@misc{
+   author = {Ens, Barrett and Hincapié-Ramos, Juan David and Irani, Pourang},
+   title = {Ethereal planes: a design framework for 2D information space in 3D mixed reality environments},
+   publisher = {ACM},
+   pages = {2-12},
+   DOI = {10.1145/2659766.2659769},
+   year = {2014},
+   type = {Conference Paper}
+}
+
+@article{
+   author = {Exline, Ralph and Gray, David and Schuette, Dorothy},
+   title = {Visual behavior in a dyad as affected by interview content and sex of respondent},
+   journal = {Journal of Personality and Social Psychology},
+   volume = {1},
+   number = {3},
+   pages = {201-209},
+   abstract = {Hypotheses concerning effects of content, concealment instructions, and sex of partner upon willingness to engage in mutual glances were tested in a 2 X 2 X 2 X 2 factorial design. 40 male and 40 female students (Ss) were interviewed by 1 graduate student of each sex (E). Interviewers gazed steadily at S while asking very personal or innocuous questions. Mutual glances were recorded and results showed: (a) Ss, when speaking, looked at E significantly more during the innocuous interview; (b) female Ss looked significantly more regardless of E's sex; (c) only sex differences were found in a postexperimental discussion; (d) female Ss were more affectionate and inclusion oriented. Results are discussed in terms of motives to conceal, cathect, and/or reduce distractions. Mediating effects of personality variables are suggested. (PsycINFO Database Record (c) 2012 APA, all rights reserved)},
+   keywords = {visual behavior
+dyad
+interview content
+sex differences
+graduate students},
+   ISSN = {1939-1315(Electronic);0022-3514(Print)},
+   DOI = {10.1037/h0021865},
+   year = {1965},
+   type = {Journal Article}
+}
+
+@inproceedings{
+   author = {Fagerberg, Petra and Ståhl, Anna and Höök, Kristina},
+   title = {Designing gestures for affective input: an analysis of shape, effort and valence},
+   booktitle = {2nd International Conference on Mobile and Ubiquittous Computing},
+   note = {SICS publications database [http://eprints.sics.se/perl/oai2] (Sweden) ER},
+   abstract = {We discuss a user-centered approach to incorporating affective expressions in interactive applications, and argue for a design that addresses both body and mind. In particular, we have studied the problem of finding a set of affective gestures. Based on previous work in movement analysis and emotion theory [Davies, Laban and Lawrence, Russell], and a study of an actor expressing emotional states in body movements, we have identified three underlying dimensions of movements and emotions: shape, effort and valence. From these dimensions we have created a new affective interaction model, which we name the affective gestural plane model. We applied this model to the design of gestural affective input to a mobile service for affective messages.},
+   url = {http://soda.swedish-ict.se/145/1/PaperA.pdf},
+   year = {2003},
+   type = {Conference Proceedings}
+}
+
+@article{
+   author = {Fei-Fei, Li and Fergus, Rob and Perona, Pietro},
+   title = {Learning generative visual models from few training examples: An incremental Bayesian approach tested on 101 object categories},
+   journal = {Computer Vision and Image Understanding},
+   volume = {106},
+   number = {1},
+   pages = {59-70},
+   abstract = {Current computational approaches to learning visual object categories require thousands of training images, are slow, cannot learn in an incremental manner and cannot incorporate prior information into the learning process. In addition, no algorithm presented in the literature has been tested on more than a handful of object categories. We present an method for learning object categories from just a few training images. It is quick and it uses prior information in a principled way. We test it on a dataset composed of images of objects belonging to 101 widely varied categories. Our proposed method is based on making use of prior information, assembled from (unrelated) object categories which were previously learnt. A generative probabilistic model is used, which represents the shape and appearance of a constellation of features belonging to the object. The parameters of the model are learnt incrementally in a Bayesian manner. Our incremental algorithm is compared experimentally to an earlier batch Bayesian algorithm, as well as to one based on maximum likelihood. The incremental and batch versions have comparable classification performance on small training sets, but incremental learning is significantly faster, making real-time learning feasible. Both Bayesian methods outperform maximum likelihood on small training sets.},
+   keywords = {Object recognition
+Categorization
+Generative model
+Incremental learning
+Bayesian model},
+   ISSN = {1077-3142},
+   DOI = {http://dx.doi.org/10.1016/j.cviu.2005.09.012},
+   url = {http://www.sciencedirect.com/science/article/pii/S1077314206001688},
+   year = {2007},
+   type = {Journal Article}
+}
+
+@inproceedings{
+   author = {Fiedler, Armin and Gabsdil, Malte},
+   title = {Supporting Progressive Refinement of Wizard-of-Oz Experiments},
+   booktitle = {Proceedings of ITS - Workshop on Empirical Methods for Tutorial Dialogue Systems},
+   pages = {62-69},
+   abstract = {We present the architecture of DiaWoZ, a system supporting the design and execution of Wizard-of-Oz experiments to collect data from tutorial dialogues. The architecture is highly modular and allows for the progressive refinement of the experiments by both designing increasingly sophisticated dialogues and successively replacing simulated components of the tutoring system by actual implementations. The dialogues to be examined are specified in a language that combines finite-state approaches with information states, thereby allowing for great flexibility. Therefore, the architecture should also be appropriate for examining dialogues in general.},
+   keywords = {speech
+sui
+woz},
+   DOI = {citeulike-article-id:4389498},
+   url = {http://www.coli.uni-saarland.de/publikationen/softcopies/Fiedler:2002:SPR.pdf},
+   year = {2002},
+   type = {Conference Proceedings}
+}
+
+@article{
+   author = {Fitts, Paul},
+   title = {The information capacity of the human motor system in controlling the amplitude of movement},
+   journal = {Journal of Experimental Psychology},
+   volume = {47},
+   number = {6},
+   pages = {381-391},
+   abstract = {Reports of 3 experiments testing the hypothesis that the average duration of responses is directly proportional to the minimum average amount of information per response. The results show that the rate of performance is approximately constant over a wide range of movement amplitude and tolerance limits. This supports the thesis that "the performance capacity of the human motor system plus its associated visual and proprioceptive feedback mechanisms, when measured in information units, is relatively constant over a considerable range of task conditions.},
+   year = {1954},
+   type = {Journal Article}
+}
+
+@misc{
+   author = {Fothergill, Simon  and Mentis, Helena and Kohli, Pushmeet and Nowozin, Sebastian},
+   title = {Instructing people for training gestural interactive systems},
+   publisher = {ACM},
+   pages = {1737-1746},
+   DOI = {10.1145/2207676.2208303},
+   year = {2012},
+   type = {Conference Paper}
+}
+
+@misc{
+   author = {Francese, Rita and Passero, Ignazio and Tortora, Genoveffa},
+   title = {Wiimote and Kinect: gestural user interfaces add a natural third dimension to HCI},
+   publisher = {ACM},
+   pages = {116-123},
+   DOI = {10.1145/2254556.2254580},
+   year = {2012},
+   type = {Conference Paper}
+}
+
+@article{
+   author = {French, Robert M.},
+   title = {Catastrophic forgetting in connectionist networks},
+   journal = {Trends in Cognitive Sciences},
+   volume = {3},
+   number = {4},
+   pages = {128-135},
+   abstract = {All natural cognitive systems, and, in particular, our own, gradually forget previously learned information. Plausible models of human cognition should therefore exhibit similar patterns of gradual forgetting of old information as new information is acquired. Only rarely does new learning in natural cognitive systems completely disrupt or erase previously learned information; that is, natural cognitive systems do not, in general, forget ‘catastrophically’. Unfortunately, though, catastrophic forgetting does occur under certain circumstances in distributed connectionist networks. The very features that give these networks their remarkable abilities to generalize, to function in the presence of degraded input, and so on, are found to be the root cause of catastrophic forgetting. The challenge in this field is to discover how to keep the advantages of distributed connectionist networks while avoiding the problem of catastrophic forgetting. In this article the causes, consequences and numerous solutions to the problem of catastrophic forgetting in neural networks are examined. The review will consider how the brain might have overcome this problem and will also explore the consequences of this solution for distributed connectionist networks.},
+   keywords = {Catastrophic forgetting
+Connectionist networks
+Connectionism
+Memory
+Learning
+Interference},
+   ISSN = {1364-6613},
+   DOI = {10.1016/s1364-6613(99)01294-2},
+   url = {http://www.sciencedirect.com/science/article/pii/S1364661399012942},
+   year = {1999},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Fukumoto, Masaaki and Suenaga, Yasuhito and Mase, Kenji},
+   title = {“Finger-Pointer”: Pointing interface by image processing},
+   journal = {Computers & Graphics},
+   volume = {18},
+   number = {5},
+   pages = {633-642},
+   ISSN = {0097-8493},
+   DOI = {10.1016/0097-8493(94)90157-0},
+   url = {http://www.sciencedirect.com/science/article/pii/0097849394901570},
+   year = {1994},
+   type = {Journal Article}
+}
+
+@misc{
+   author = {Fuller, Robert},
+   title = {Introduction in Neuro-Fuzzy Systems},
+   publisher = {Abo Akademi University},
+   pages = {348},
+   year = {1995},
+   type = {Electronic Book}
+}
+
+@inproceedings{
+   author = {Gallo, L. and Placitelli, A. P. and Ciampi, M.},
+   title = {Controller-free exploration of medical image data: Experiencing the Kinect},
+   booktitle = {Computer-Based Medical Systems (CBMS), 2011 24th International Symposium on},
+   pages = {1-6},
+   keywords = {medical administrative data processing
+medical image processing
+public domain software
+user interfaces
+Microsoft Xbox Kinec
+controller-free exploration
+medical image data
+open-source system
+user interface
+Biomedical imaging
+Calibration
+Cameras
+Joints
+Magnetic resonance imaging
+Sensors
+Surgery},
+   ISBN = {1063-7125},
+   DOI = {10.1109/cbms.2011.5999138},
+   year = {2011},
+   type = {Conference Proceedings}
+}
+
+@article{
+   author = {Goodall, Jane van Lawick},
+   title = {The Behaciour of Free-Living Chimpanzees in the Gombe Stream Reserve},
+   journal = {Animal Behaviour Monographs},
+   volume = {1},
+   pages = {161-311},
+   year = {1968},
+   type = {Journal Article}
+}
+
+@misc{
+   author = {Grandhi, Sukeshini A. and Joue, Gina and Mittelberg, Irene},
+   title = {Understanding naturalness and intuitiveness in gesture production: insights for touchless gestural interfaces},
+   publisher = {ACM},
+   pages = {821-824},
+   DOI = {10.1145/1978942.1979061},
+   year = {2011},
+   type = {Conference Paper}
+}
+
+@article{
+   author = {Hauptmann, A. G.},
+   title = {Speech and gestures for graphic image manipulation},
+   journal = {Proceedings of the SIGCHI Conference on Human Factors in Computing Systems},
+   volume = {20},
+   pages = {241-245},
+   DOI = {10.1145/67449.67496},
+   year = {1989},
+   type = {Journal Article}
+}
+
+@misc{
+   author = {Henschke, Martin and Gedeon, Tom},
+   title = {Identifying Optimal Attributes in 3D Interface Devices},
+   publisher = {ACM},
+   pages = {1-4},
+   DOI = {10.1145/2662253.2662318},
+   year = {2014},
+   type = {Conference Paper}
+}
+
+@inproceedings{
+   author = {Henschke, Martin and Gedeon, Tom and Jones, Richard},
+   title = {Extending the index finger is worse than sitting: Posture and minimal objects in 3D pointing interfaces},
+   booktitle = {Cognitive Infocommunications, 4th International Conference on},
+   pages = {797-802},
+   keywords = {gesture recognition
+image sensors
+mouse controllers (computers)
+object tracking
+3D deictic gesture interface
+3D pointing interfaces
+Kinect sensor
+hand-mounted 3D mouse tracking
+index finger extension
+pointing movement tracking
+wearable computing
+Fatigue
+Indexes
+Mice
+Performance evaluation
+Three-dimensional displays
+Thumb
+&#x201C
+3D mouse&#x201D
+&#x201C
+fatigue&#x201D
+&#x201C
+finger extension&#x201D
+&#x201C
+hand gesture&#x201D
+&#x201C
+user satisfaction&#x201D
+&#x201C
+wearable computing&#x201D},
+   DOI = {10.1109/CogInfoCom.2013.6719208},
+   year = {2013},
+   type = {Conference Proceedings}
+}
+
+@misc{
+   author = {Henschke, Martin and Gedeon, Tom  and Jones, Richard },
+   title = {Touchless Gestural Interaction with Wizard-of-Oz: Analysing User Behaviour},
+   publisher = {ACM},
+   pages = {207-211},
+   DOI = {10.1145/2838739.2838792},
+   year = {2015},
+   type = {Conference Paper}
+}
+
+@inbook{
+   author = {Henschke, Martin and Gedeon, Tom and Jones, Richard and Caldwell, Sabrina and Zhu, Dingyun},
+   title = {Wands Are Magic: A Comparison of Devices Used in 3D Pointing Interfaces},
+   booktitle = {Human-Computer Interaction – INTERACT 2013},
+   editor = {Kotzé, Paula and Marsden, Gary and Lindgaard, Gitte and Wesson, Janet and Winckler, Marco},
+   series = {Lecture Notes in Computer Science},
+   publisher = {Springer Berlin Heidelberg},
+   volume = {8119},
+   chapter = {32},
+   pages = {512-519},
+   keywords = {“magic wand”
+“3D mouse”
+“hand gesture”
+“fatigue”
+“user satisfaction”},
+   ISBN = {978-3-642-40476-4},
+   DOI = {10.1007/978-3-642-40477-1_32},
+   url = {http://dx.doi.org/10.1007/978-3-642-40477-1_32},
+   year = {2013},
+   type = {Book Section}
+}
+
+@misc{
+   author = {Henschke, Martin  and Hobbs, David  and Wilkinson, Brett },
+   title = {Developing serious games for children with cerebral palsy: case study and pilot trial},
+   publisher = {ACM},
+   pages = {212-221},
+   DOI = {10.1145/2414536.2414574},
+   year = {2012},
+   type = {Conference Paper}
+}
+
+@article{
+   author = {Hewes, Gordon W.},
+   title = {The Current State of Gestural Theory and Language Origin},
+   journal = {Annals of the New York Academy of Sciences},
+   volume = {280},
+   number = {1},
+   pages = {482-504},
+   ISSN = {1749-6632},
+   DOI = {10.1111/j.1749-6632.1976.tb25512.x},
+   url = {http://dx.doi.org/10.1111/j.1749-6632.1976.tb25512.x},
+   year = {1976},
+   type = {Journal Article}
+}
+
+@misc{
+   author = {Hincapié-Ramos, Juan David and Guo, Xiang and Moghadasian, Paymahn and Irani, Pourang},
+   title = {Consumed endurance: a metric to quantify arm fatigue of mid-air interactions},
+   publisher = {ACM},
+   pages = {1063-1072},
+   DOI = {10.1145/2556288.2557130},
+   year = {2014},
+   type = {Conference Paper}
+}
+
+@article{
+   author = {Hinckley, Ken and Pausch, Randy and Proffitt, Dennis and Kassell, Neal F.},
+   title = {Two-handed virtual manipulation},
+   journal = {ACM Trans. Comput.-Hum. Interact.},
+   volume = {5},
+   number = {3},
+   pages = {260-302},
+   ISSN = {1073-0516},
+   DOI = {10.1145/292834.292849},
+   year = {1998},
+   type = {Journal Article}
+}
+
+@inbook{
+   author = {Hosoya, Eiichi and Sato, Hidenori and Kitabata, Miki and Harada, Ikuo and Nojima, Hisao and Onozawa, Akira},
+   title = {Arm-Pointer: 3D Pointing Interface for Real-World Interaction},
+   booktitle = {Computer Vision in Human-Computer Interaction},
+   editor = {Sebe, Nicu and Lew, Michael and Huang, ThomasS},
+   series = {Lecture Notes in Computer Science},
+   publisher = {Springer Berlin Heidelberg},
+   volume = {3058},
+   chapter = {8},
+   pages = {72-82},
+   ISBN = {978-3-540-22012-1},
+   DOI = {10.1007/978-3-540-24837-8_8},
+   url = {http://dx.doi.org/10.1007/978-3-540-24837-8_8},
+   year = {2004},
+   type = {Book Section}
+}
+
+@inproceedings{
+   author = {Hummels, C. and Stappers, P. J.},
+   title = {Meaningful gestures for human computer interaction: beyond hand postures},
+   booktitle = {Automatic Face and Gesture Recognition, 1998. Proceedings. Third IEEE International Conference on},
+   pages = {591-596},
+   abstract = {In the development of gestural interfaces for product design, the perceptual-motor skills of the designer and the expressive, creative process of design need to be supported. To accomplish this goal, we propose a different approach than currently used in research on gestures. We propose that meaning is central to the definition of &ldquo;gesture&rdquo; and discuss a new categorisation for gestures in which gestures refer (simultaneously) to four aspects, namely space, pathic information, symbols and emotion. This definition and categorisation also ask for a different type of experimentation. We show with two experiments how gestural human-computer interaction for product design can be studied. By having a trained artist mimic a gestural interface for design, we found that an accurate interpretation of the created product can be made, even when designers are allowed full freedom in their gestures. We find that task-specific intuitive human-computer interaction using gestures is feasible, although extensive research is necessary and ongoing},
+   keywords = {CAD
+computer vision
+human factors
+image recognition
+user interfaces
+creative process
+emotion
+experiments
+gestural human-computer interaction
+gestural interfaces
+human computer interaction
+meaning
+pathic information
+perceptual-motor skills
+product design
+space aspects
+symbols},
+   DOI = {10.1109/afgr.1998.671012},
+   year = {1998},
+   type = {Conference Proceedings}
+}
+
+@article{
+   author = {Hurwitz, Irving and Wolff, Peter H. and Bortnick, Barrie D. and Kokas, Klara},
+   title = {Nonmusicol Effects of the Kodaly Music Curriculum in Primary Grade Children},
+   journal = {Journal of Learning Disabilities},
+   volume = {8},
+   number = {3},
+   pages = {167-174},
+   abstract = {This study compares the performances of two matched groups of primary grade children on tasks of temporal and spatial abilities. One group received an intensive exposure to the Kodaly Music Training Program, while the other group did not. The results indicated that the music group performed more effectively on both temporal and spatial tasks than the non-music control group. Sex differences are also reported in which experimental group boys demonstrated a significantly better level of performance than control boys. Comparison with a second control group indicated that children receiving the Kodaly Music Program performed more effectively on reading tests than comparable groups of first graders not receiving this music instruction. This facilitative effect on reading performance was observed beyond the first grade level when the music program was continued.},
+   DOI = {10.1177/002221947500800310},
+   url = {http://ldx.sagepub.com/content/8/3/167.abstract},
+   year = {1975},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Ji Soo, Yi and Youn ah, Kang and Stasko, J. T. and Jacko, J. A.},
+   title = {Toward a Deeper Understanding of the Role of Interaction in Information Visualization},
+   journal = {Visualization and Computer Graphics, IEEE Transactions on},
+   volume = {13},
+   number = {6},
+   pages = {1224-1231},
+   abstract = {Even though interaction is an important part of information visualization (Infovis), it has garnered a relatively low level of attention from the Infovis community. A few frameworks and taxonomies of Infovis interaction techniques exist, but they typically focus on low-level operations and do not address the variety of benefits interaction provides. After conducting an extensive review of Infovis systems and their interactive capabilities, we propose seven general categories of interaction techniques widely used in Infovis: 1) Select, 2) Explore, 3) Reconfigure, 4) Encode, 5) Abstract/Elaborate, 6) Filter, and 7) Connect. These categories are organized around a user's intent while interacting with a system rather than the low-level interaction techniques provided by a system. The categories can act as a framework to help discuss and evaluate interaction techniques and hopefully lay an initial foundation toward a deeper understanding and a science of interaction.},
+   keywords = {data visualisation
+human computer interaction
+Infovis community
+Infovis interaction techniques
+Infovis systems
+information visualization
+taxonomy
+Computer displays
+Computer graphics
+Conference proceedings
+Data visualization
+Filters
+Rendering (computer graphics)
+Research and development
+Visual analytics
+interaction
+interaction techniques},
+   ISSN = {1077-2626},
+   DOI = {10.1109/tvcg.2007.70515},
+   year = {2007},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Johansson, Gunnar},
+   title = {Visual perception of biological motion and a model for its analysis},
+   journal = {Perception & Psychophysics},
+   volume = {14},
+   number = {2},
+   pages = {201-211},
+   ISSN = {0031-5117},
+   DOI = {10.3758/bf03212378},
+   url = {http://dx.doi.org/10.3758/BF03212378},
+   year = {1973},
+   type = {Journal Article}
+}
+
+@inproceedings{
+   author = {Johnson, Rose and O'Hara, Kenton and Sellen, Abigail and Cousins, Claire and Criminisi, Antonio},
+   title = {Exploring the potential for touchless interaction in image-guided interventional radiology},
+   booktitle = {Proceedings of the SIGCHI Conference on Human Factors in Computing Systems},
+   pages = {3323-3332},
+   year = {2011},
+   type = {Conference Proceedings}
+}
+
+@techreport{eps:261149,
+   author = {Karam, Maria and Schraefel, m. c.},
+   title = {A Taxonomy of Gestures in Human Computer Interactions},
+   institution = {University of Southampton},
+   type = {Technical Report},
+   abstract = {We present a survey and taxonomy of gesture-based computer interactions motivated by a literature review of over 40 years of gesture based interactions. This work presents a unique perspective on gesture-based interactions, categorized in terms of four key elements: gesture styles, the application domains they are applied to, input technologies and output technologies used for implementation. The taxonomy provides a means of addressing gestures as an interaction mode across the different application domains so that researchers and designers can draw on the vast amount of research that has been addressed within the literature from an interaction perspective.},
+   keywords = {Gestures, Human Computer Interactions, Survey, Taxonomy},
+   url = {http://eprints.soton.ac.uk/261149/},
+   year = {2005},
+   type = {Report}
+}
+
+@article{
+   author = {Kee, Dohyung},
+   title = {A method for analytically generating three-dimensional isocomfort workspace based on perceived discomfort},
+   journal = {Applied Ergonomics},
+   volume = {33},
+   number = {1},
+   pages = {51-62},
+   abstract = {The purpose of this study was to develop a new method for analytically generating three-dimensional isocomfort workspace for the upper extremities using the robot kinematics. Subjective perceived discomfort scores in varying postures for manipulating four types of controls were used. Fifteen healthy male subjects participated in the experiment. The subjects were asked to hold the given postures manipulating controls for 60&#xa0;s in the seated position, and to rate their perceived discomfort during the following rest of 60&#xa0;s using the magnitude estimation. Postures of the upper extremities set by shoulder and elbow motions, types of controls, and left/right hand were selected as experimental variables, in which the L32 orthogonal array was adopted. The results showed that shoulder flexion and adduction-abduction, elbow flexion, and types of controls significantly affected perceived discomfort for postures operating controls, but hand used for operating controls did not. Depending upon the types of controls, four regression models predicting perceived discomfort were presented. Using the models, a sweeping algorithm to generate three-dimensional isocomfort workspace was developed, in which the robot kinematics was employed to describe the translational relationships between the upper arm and the lower arm/hand. It is expected that the isocomfort workspace can be used as a valuable design guideline when ergonomically designing three-dimensional workplaces.},
+   keywords = {Discomfort
+Workplace
+Isocomfort workspace
+Robot kinematics},
+   ISSN = {0003-6870},
+   DOI = {10.1016/s0003-6870(01)00047-3},
+   url = {http://www.sciencedirect.com/science/article/pii/S0003687001000473},
+   year = {2002},
+   type = {Journal Article}
+}
+
+@inbook{
+   author = {Khoo, Suisin and Gedeon, Tom},
+   title = {Generalisation Performance vs. Architecture Variations in Constructive Cascade Networks
+Advances in Neuro-Information Processing},
+   editor = {Köppen, Mario and Kasabov, Nikola and Coghill, George},
+   series = {Lecture Notes in Computer Science},
+   publisher = {Springer Berlin / Heidelberg},
+   volume = {5507},
+   pages = {236-243},
+   keywords = {Computer Science},
+   ISBN = {978-3-642-03039-0},
+   DOI = {10.1007/978-3-642-03040-6_29},
+   url = {http://dx.doi.org/10.1007/978-3-642-03040-6_29},
+   year = {2009},
+   type = {Book Section}
+}
+
+@inproceedings{
+   author = {Kim, Yongwan and Lee, G. A. and Jo, Dongsik and Yang, Ungyeon and Kim, Gihong and Park, Jinah},
+   title = {Analysis on virtual interaction-induced fatigue and difficulty in manipulation for interactive 3D gaming console},
+   booktitle = {Consumer Electronics (ICCE), 2011 IEEE International Conference on},
+   pages = {269-270},
+   abstract = {As typical games become interactive 3D games, users may feel fatigued and may have difficulty manipulating virtual objects with current interactive 3D technologies such as Nintendo Wii, MS Kinect and the PS3 3D display. In this paper, we analyze factors about interaction fatigue and manipulation difficulty. For an analysis on factors, we categorize various interactions into two types of interaction scenarios: object manipulation and 3D UI selection. From our analysis, we presented the design factors related to finger extension motion for grasping, early extension for grasping/selection, haptic sensation, erroneous trials, and head motion for 3D perception. Game developers can apply induced design factors to their interactive 3D game contents.},
+   keywords = {computer games
+ergonomics
+haptic interfaces
+interactive devices
+remote consoles
+virtual reality
+3D UI selection
+3D perception
+MS Kinect
+Nintendo Wii
+PS3 3D display
+design factor
+finger extension motion
+grasping
+haptic sensation
+head motion
+interaction fatigue
+interactive 3D gaming console
+interactive 3D technology
+manipulation difficulty
+object manipulation
+virtual interaction-induced fatigue
+virtual object},
+   ISBN = {2158-3994},
+   DOI = {10.1109/icce.2011.5722577},
+   year = {2011},
+   type = {Conference Proceedings}
+}
+
+@inproceedings{
+   author = {Kjeldsen, R. and Kender, J.},
+   title = {Toward the use of gesture in traditional user interfaces},
+   booktitle = {Automatic Face and Gesture Recognition, 1996., Proceedings of the Second International Conference on},
+   pages = {151-156},
+   abstract = {This work describes the design of a functioning user interface based on visual recognition of hand gestures, and details its performance. In the interface, gesture replaces the mouse for many actions including selecting, moving and resizing windows. A camera below the screen observes the user. The hand is segmented from the background using color. Features of the hand's motion are extracted from the sequence of segmented images, and when needed the hand's pose is classified using a neural net. This information is parsed by a task specific grammar. The system runs in real time on standard PC hardware. It has demonstrated its abilities with various users in several different office environments. Having experimented with a functioning gestural interface, the authors discuss the practicality and best applications of this technology},
+   keywords = {computer vision
+feature extraction
+graphical user interfaces
+image segmentation
+neural nets
+gesture
+hand gestures
+neural net
+office environments
+segmented images
+task specific grammar
+traditional user interfaces
+visual recognition},
+   DOI = {10.1109/afgr.1996.557257},
+   year = {1996},
+   type = {Conference Proceedings}
+}
+
+@book{
+   author = {Knapp, Mark L. and Hall, Judith A.},
+   title = {Nonverbal Communication in Human Interaction},
+   publisher = {Wadsworth Cengage Learning},
+   address = {Boston},
+   edition = {7},
+   year = {2010},
+   type = {Book}
+}
+
+@article{
+   author = {Kölsch, Mathias and Beall, Andrew C. and Turk, Matthew},
+   title = {An Objective Measure for Postural Comfort},
+   journal = {Proceedings of the Human Factors and Ergonomics Society Annual Meeting},
+   volume = {47},
+   number = {4},
+   pages = {725-728},
+   abstract = {Biomechanics determines the physical range in which humans can move their bodies. Human factors research delineates a subspace in which humans can operate without experiencing musculoskeletal strain, fatigue or discomfort. We claim that there is an even tighter space which we call the comfort zone. It is defined as the range of postures adopted voluntarily — despite the availability of other postures. We introduce a measurable, objective foundation for comfort, which was previously assumed equivalent to the absence of discomfort, a subjective quantity. Interfaces designed outside a user's comfort zone can prompt the adoption of alternative use patterns, which are often less favorable because they trade off the unnoticeable potential of injury for comfort. Designing interfaces within the limits of comfort zones can avert these risks.},
+   DOI = {10.1177/154193120304700413},
+   url = {http://pro.sagepub.com/content/47/4/725.abstract},
+   year = {2003},
+   type = {Journal Article}
+}
+
+@misc{
+   author = {Kölsch, Mathias and Turk, Matthew},
+   title = {Keyboards without keyboards: A survey of virtual keyboards},
+   note = {CiteSeerX - Scientific Literature Digital Library and Search Engine [http://citeseerx.ist.psu.edu/oai2] (United States) ER},
+   abstract = {Input to small devices is becoming an increasingly crucial factor in development for the ever-more powerful embedded market. Speech input promises to become a feasible alternative to tiny keypads, yet its limited reliability, robustness, and flexibility render it unsuitable for certain tasks and/or environments. Various attempts have been made to provide the common keyboard metaphor without the physical keyboard, to build “virtual keyboards”. This promises to leverage our familiarity with the device without incurring the constraints of the bulky physics. This paper surveys technologies for alphanumeric input devices and methods with a strong focus on touch-typing. We analyze the characteristics of the keyboard modality and show how they contribute to making it a necessary complement to speech recognition rather than a competitor.},
+   keywords = {vision,gesture},
+   url = {http://citeseerx.ist.psu.edu/viewdoc/summary?doi=?doi=10.1.1.18.9065},
+   year = {2002},
+   type = {Generic}
+}
+
+@misc{
+   author = {Kratz, Louis and Smith, Matthew and Lee, Frank J.},
+   title = {Wiizards: 3D gesture recognition for game play input},
+   publisher = {ACM},
+   pages = {209-212},
+   DOI = {10.1145/1328202.1328241},
+   year = {2007},
+   type = {Conference Paper}
+}
+
+@article{
+   author = {Krauss, Robert M. and Chen, Yishsiu and Purnima, Chawla},
+   title = {Nonverbal behaviour and nonverbal communication: What do conversational hand gestures tell us?},
+   journal = {Advances in experimental social psychology},
+   volume = {28},
+   pages = {389-459},
+   year = {1996},
+   type = {Journal Article}
+}
+
+@misc{
+   author = {Kriesel, David},
+   title = {A Brief Introduction to Neural Networks},
+   publisher = {available at http://www.dkriesel.com},
+   year = {2011},
+   type = {Electronic Book}
+}
+
+@article{
+   author = {Lee, Bongshin and Isenberg, P. and Riche, N. H. and Carpendale, S.},
+   title = {Beyond Mouse and Keyboard: Expanding Design Considerations for Information Visualization Interactions},
+   journal = {Visualization and Computer Graphics, IEEE Transactions on},
+   volume = {18},
+   number = {12},
+   pages = {2689-2698},
+   keywords = {data visualisation
+graphical user interfaces
+human computer interaction
+interactive systems
+keyboards
+mouse controllers (computers)
+HCI interaction model
+InfoVis interaction classification
+WIMP interface
+cognition
+design consideration
+desktop
+icons
+information visualization interaction
+interaction technology
+interactivity
+keyboard
+menus
+mouse
+natural interaction
+pointer
+windows
+Data visualization
+Information analysis
+Instruments
+Taxonomy
+User interfaces
+Design considerations
+NUI (Natural User Interface)
+interaction
+post-WIMP},
+   ISSN = {1077-2626},
+   DOI = {10.1109/tvcg.2012.204},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@inproceedings{
+   author = {Lenman, S. and Bretzner, L. and Thuresson, B.},
+   title = {Using marking menus to develop command sets for computer vision based hand gesture interfaces},
+   volume = {31},
+   pages = {239-242},
+   note = {Cited By (since 1996): 4
+Export Date: 28 September 2012
+Source: Scopus},
+   url = {http://www.scopus.com/inward/record.url?eid=2-s2.0-48949091557&partnerID=40&md5=38c31fb45150706bfd27f680e7bc7cef},
+   year = {2002},
+   type = {Conference Proceedings}
+}
+
+@inbook{
+   author = {Levinson, Stephen C},
+   title = {Deixis},
+   booktitle = {The handbook of pragmatics},
+   publisher = {Blackwell},
+   pages = {97-121},
+   year = {2004},
+   type = {Book Section}
+}
+
+@misc{
+   author = {Licsár, Attila  and Szirányi, Tamás 	 and Kovács, László  and Pataki, Balázs },
+   title = {Tillarom: an AJAX based folk song search and retrieval system with gesture interface based on kodály hand},
+   publisher = {ACM},
+   pages = {81-88},
+   DOI = {10.1145/1178745.1178760},
+   year = {2006},
+   type = {Conference Paper}
+}
+
+@article{
+   author = {Lovett, Marsha C. and Daily, Larry Z. and Reder, Lynne M.},
+   title = {A source activation theory of working memory: cross-task prediction of performance in ACT-R},
+   journal = {Cognitive Systems Research},
+   volume = {1},
+   number = {2},
+   pages = {99-118},
+   ISSN = {1389-0417},
+   DOI = {10.1016/s1389-0417(99)00012-1},
+   url = {http://www.sciencedirect.com/science/article/pii/S1389041799000121},
+   year = {2000},
+   type = {Journal Article}
+}
+
+@inproceedings{
+   author = {Maggioni, C.},
+   title = {A novel gestural input device for virtual reality},
+   booktitle = {Virtual Reality Annual International Symposium, 1993., 1993 IEEE},
+   pages = {118-124},
+   keywords = {interactive devices
+position control
+position measurement
+virtual reality
+3D input device
+ImageGlove
+Polhemus position sensor
+gestural input device
+hand orientation detection
+hand position detection
+nonimmersive virtual environments
+real-time detection
+Application software
+Computer applications
+Computer interfaces
+Data gloves
+Head
+Humans
+Image processing
+Optical fiber cables
+Virtual environment},
+   DOI = {10.1109/vrais.1993.380789},
+   year = {1993},
+   type = {Conference Proceedings}
+}
+
+@article{
+   author = {Malizia, Alessio  and Bellucci, Andrea },
+   title = {The artificiality of natural user interfaces},
+   journal = {Communications of the ACM},
+   volume = {55},
+   number = {3},
+   pages = {36-38},
+   ISSN = {0001-0782},
+   DOI = {10.1145/2093548.2093563},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@misc{
+   author = {Mankoff, Jennifer and Abowd, Gregory D.},
+   title = {Cirrin: A word-level unistroke keyboard for pen input},
+   pages = {213-214},
+   year = {1998},
+   type = {Dictionary}
+}
+
+@inbook{
+   author = {Mayberry, Rachel and Jaques, Joselynne },
+   title = {Gesture production during stuttered speech: insights into the nature of gesture-speech integration},
+   booktitle = {Language and Gesture},
+   editor = {McNeill, David},
+   publisher = {Cambridge University Press},
+   address = {University of Chicago},
+   year = {2000},
+   type = {Book Section}
+}
+
+@book{
+   author = {Meijer, Marco de},
+   title = {Emotional Meaning in Large Body Movements},
+   publisher = {Tilburg University Press},
+   edition = {1},
+   ISBN = {90-361-9792-9 CIP},
+   year = {1991},
+   type = {Book}
+}
+
+@misc{
+   author = {Minack, Enrico  and Siberski, Wolf and Nejdl, Wolfgang },
+   title = {Incremental diversification for very large sets: a streaming-based approach},
+   publisher = {ACM},
+   pages = {585-594},
+   DOI = {10.1145/2009916.2009996},
+   year = {2011},
+   type = {Conference Paper}
+}
+
+@article{
+   author = {Myers, Brad A. },
+   title = {A brief history of human-computer interaction technology},
+   journal = {Interactions},
+   volume = {5},
+   number = {2},
+   pages = {44-54},
+   ISSN = {1072-5520},
+   DOI = {10.1145/274430.274436},
+   year = {1998},
+   type = {Journal Article}
+}
+
+@misc{
+   author = {Nickel, Kai  and Stiefelhagen, Rainer},
+   title = {Pointing gesture recognition based on 3D-tracking of face, hands and head orientation},
+   publisher = {ACM},
+   pages = {140-146},
+   DOI = {10.1145/958432.958460},
+   year = {2003},
+   type = {Conference Paper}
+}
+
+@inbook{
+   author = {Nielsen, Michael and Störring, Moritz and Moeslund, Thomas and Granum, Erik},
+   title = {A Procedure for Developing Intuitive and Ergonomic Gesture Interfaces for HCI },
+   booktitle = {Gesture-Based Communication in Human-Computer Interaction},
+   editor = {Camurri, Antonio and Volpe, Gualtiero},
+   series = {Lecture Notes in Computer Science},
+   publisher = {Springer Berlin / Heidelberg},
+   volume = {2915},
+   pages = {409-420},
+   abstract = {Many disciplines of multimedia and communication go towards ubiquitous computing and hand-free- and no-touch interaction with computers. Application domains in this direction involve virtual reality, augmented reality, wearable computing, and smart spaces, where gesturing is a possible method of interaction. This paper presents some important issues in choosing the set of gestures for the interface from a user-centred view such as the learning rate, ergonomics, and intuition. A procedure is proposed which includes those issues in the selection of gestures, and to test the resulting set of gestures. The procedure is tested and demonstrated on an example application with a small test group. The procedure is concluded to be useful for finding a basis for the choice of gestures. The importance of tailoring the gesture vocabulary for the user group was also shown.},
+   keywords = {Computer Science},
+   ISBN = {978-3-540-21072-6},
+   DOI = {10.1007/978-3-540-24598-8_38},
+   url = {http://dx.doi.org/10.1007/978-3-540-24598-8_38},
+   year = {2004},
+   type = {Book Section}
+}
+
+@article{
+   author = {Nishino, Hiroaki and Utsumiya, Kouichi and Kuraoka, Daisuke and Yoshioka, Kenji and Korida, Kazuyoshi},
+   title = {Interactive two-handed gesture interface in 3D virtual environments},
+   journal = {Virtual reality software and technology},
+   pages = {1-8},
+   year = {1997},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Norman, Donald A. },
+   title = {Natural user interfaces are not natural},
+   journal = {Interactions},
+   volume = {17},
+   number = {3},
+   pages = {6-10},
+   ISSN = {1072-5520},
+   DOI = {10.1145/1744161.1744163},
+   year = {2010},
+   type = {Journal Article}
+}
+
+@inbook{
+   author = {Nürnberger, A. and Detyniecki, M.},
+   title = {Adaptive Multimedia Retrieval: From Data to User Interaction},
+   booktitle = {Do Smart Adaptive Systems Exist?},
+   editor = {Gabrys, Bogdan and Leiviskä, Kauko and Strackeljan, Jens},
+   series = {Studies in Fuzziness and Soft Computing},
+   publisher = {Springer Berlin Heidelberg},
+   volume = {173},
+   chapter = {17},
+   pages = {341-370},
+   ISBN = {978-3-540-24077-8},
+   DOI = {10.1007/3-540-32374-0_17},
+   url = {http://dx.doi.org/10.1007/3-540-32374-0_17},
+   year = {2005},
+   type = {Book Section}
+}
+
+@article{
+   author = {Obermeier, Christian and Dolk, Thomas and Gunter, Thomas C.},
+   title = {The benefit of gestures during communication: Evidence from hearing and hearing-impaired individuals},
+   journal = {Cortex},
+   volume = {48},
+   number = {7},
+   pages = {857-870},
+   abstract = {There is no doubt that gestures are communicative and can be integrated online with speech. Little is known, however, about the nature of this process, for example, its automaticity and how our own communicative abilities and also our environment influence the integration of gesture and speech. In two Event Related Potential (ERP) experiments, the effects of gestures during speech comprehension were explored. In both experiments, participants performed a shallow task thereby avoiding explicit gesture–speech integration. In the first experiment, participants with normal hearing viewed videos in which a gesturing actress uttered sentences which were either embedded in multi-speaker babble noise or not. The sentences contained a homonym which was disambiguated by the information in a gesture, which was presented asynchronous to speech (1000 msec earlier). Downstream, the sentence contained a target word that was either related to the dominant or subordinate meaning of the homonym and was used to indicate the success of the disambiguation. Both the homonym and the target word position showed clear ERP evidence of gesture–speech integration and disambiguation only under babble noise. Thus, during noise, gestures were taken into account as an important communicative cue. In Experiment 2, the same asynchronous stimuli were presented to a group of hearing-impaired students and age-matched controls. Only the hearing-impaired individuals showed significant speech–gesture integration and successful disambiguation at the target word. The age-matched controls did not show any effect. Thus, individuals who chronically experience suboptimal communicative situations in daily life automatically take gestures into account. The data from both experiments indicate that gestures are beneficial in countering difficult communication conditions independent of whether the difficulties are due to external (babble noise) or internal (hearing impairment) factors.},
+   keywords = {Communication
+Gesture–speech integration
+Hearing impaired
+Babble noise
+Asynchrony
+N400},
+   ISSN = {0010-9452},
+   DOI = {http://dx.doi.org/10.1016/j.cortex.2011.02.007},
+   url = {http://www.sciencedirect.com/science/article/pii/S0010945211000323},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@article{
+   author = {O'Hara, Kenton  and Harper, Richard and Mentis, Helena  and Sellen, Abigail  and Taylor, Alex },
+   title = {On the naturalness of touchless: Putting the "interaction" back into NUI},
+   journal = {ACM Trans. Comput.-Hum. Interact.},
+   volume = {20},
+   number = {1},
+   pages = {1-25},
+   ISSN = {1073-0516},
+   DOI = {10.1145/2442106.2442111},
+   year = {2013},
+   type = {Journal Article}
+}
+
+@article{
+   author = {O'Toole, A. J. and Abdi, H. and Fang, Jiang and Phillips, P. J.},
+   title = {Fusing Face-Verification Algorithms and Humans},
+   journal = {Systems, Man, and Cybernetics, Part B: Cybernetics, IEEE Transactions on},
+   volume = {37},
+   number = {5},
+   pages = {1149-1155},
+   abstract = {It has been demonstrated that state-of-the-art face-recognition algorithms can surpass human accuracy at matching faces over changes in illumination. The ranking of algorithms and humans by accuracy, however, does not provide information about whether algorithms and humans perform the task comparably or whether algorithms and humans can be fused to improve performance. In this paper, we fused humans and algorithms using partial least square regression (PLSR). In the first experiment, we applied PLSR to face-pair similarity scores generated by seven algorithms participating in the Face Recognition Grand Challenge. The PLSR produced an optimal weighting of the similarity scores, which we tested for generality with a jackknife procedure. Fusing the algorithms' similarity scores using the optimal weights produced a twofold reduction of error rate over the most accurate algorithm. Next, human-subject-generated similarity scores were added to the PLSR analysis. Fusing humans and algorithms increased the performance to near-perfect classification accuracy. These results are discussed in terms of maximizing face-verification accuracy with hybrid systems consisting of multiple algorithms and humans.},
+   keywords = {face recognition
+gesture recognition
+image matching
+lighting
+regression analysis
+sensor fusion
+data fusion
+face matching
+face recognition algorithms
+face verification algorithms
+human fusing
+human information processing
+illumination
+near-perfect classification
+partial least square regression
+Algorithms
+Artificial Intelligence
+Biometry
+Computer Simulation
+Face
+Facial Expression
+Humans
+Image Enhancement
+Image Interpretation, Computer-Assisted
+Information Storage and Retrieval
+Models, Biological
+Pattern Recognition, Automated
+Reproducibility of Results
+Sensitivity and Specificity
+Subtraction Technique},
+   ISSN = {1083-4419},
+   DOI = {10.1109/tsmcb.2007.907034},
+   year = {2007},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Pavlovic, V. I. and Sharma, R. and Huang, T. S.},
+   title = {Visual interpretation of hand gestures for human-computer interaction: a review},
+   journal = {Pattern Analysis and Machine Intelligence, IEEE Transactions on},
+   volume = {19},
+   number = {7},
+   pages = {677-695},
+   abstract = {The use of hand gestures provides an attractive alternative to cumbersome interface devices for human-computer interaction (HCI). In particular, visual interpretation of hand gestures can help in achieving the ease and naturalness desired for HCI. This has motivated a very active research area concerned with computer vision-based analysis and interpretation of hand gestures. We survey the literature on visual interpretation of hand gestures in the context of its role in HCI. This discussion is organized on the basis of the method used for modeling, analyzing, and recognizing gestures. Important differences in the gesture interpretation approaches arise depending on whether a 3D model of the human hand or an image appearance model of the human hand is used. 3D hand models offer a way of more elaborate modeling of hand gestures but lead to computational hurdles that have not been overcome given the real-time requirements of HCI. Appearance-based models lead to computationally efficient &ldquo;purposive&rdquo; approaches that work well under constrained situations but seem to lack the generality desirable for HCI. We also discuss implemented gestural systems as well as other potential applications of vision-based gesture recognition. Although the current progress is encouraging, further theoretical as well as computational advances are needed before gestures can be widely used for HCI. We discuss directions of future research in gesture recognition, including its integration with other natural modes of human-computer interaction},
+   keywords = {image recognition
+motion estimation
+reviews
+user interfaces
+HCI
+computationally efficient purposive approaches
+hand gestures
+human-computer interaction
+real-time requirements
+vision-based gesture recognition
+visual interpretation
+Communications technology
+Computational modeling
+Computer displays
+Computer vision
+Human computer interaction
+Keyboards
+Motion analysis
+Potential well
+Tracking
+Virtual reality},
+   ISSN = {0162-8828},
+   DOI = {10.1109/34.598226},
+   year = {1997},
+   type = {Journal Article}
+}
+
+@misc{
+   author = {Pfeifer, Rolf and Damian, Dana and Fuchslin, Rudolf},
+   title = {Neural Networks},
+   publisher = {University of Zurich},
+   pages = {109},
+   year = {2010},
+   type = {Electronic Book}
+}
+
+@article{
+   author = {Saragih, Jason and Göcke, Roland},
+   title = {Learning AAM fitting through simulation},
+   journal = {Pattern Recognition},
+   volume = {42},
+   number = {11},
+   pages = {2628-2636},
+   abstract = {The active appearance model (AAM) is a powerful method for modeling and segmenting deformable visual objects. The utility of the AAM stems from two fronts: its compact representation as a linear object class and its rapid fitting procedure, which utilizes fixed linear updates. Although the original fitting procedure works well for objects with restricted variability when initialization is close to the optimum, its efficacy deteriorates in more general settings, with regards to both accuracy and capture range. In this paper, we propose a novel fitting procedure where training is coupled with, and directly addresses, AAM fitting in its deployment. This is achieved by simulating the conditions of real fitting problems and learning the best set of fixed linear mappings, such that performance over these simulations is optimized. The power of the approach does not stem from an update model with larger capacity, but from addressing the whole fitting procedure simultaneously. To motivate the approach, it is compared with a number of existing AAM fitting procedures on two publicly available face databases. It is shown that this method exhibits convergence rates, capture range and convergence accuracy that are significantly better than other linear methods and comparable to a nonlinear method, whilst affording superior computational efficiency.},
+   keywords = {Active appearance model
+Fitting
+Discriminative
+Linear model},
+   ISSN = {0031-3203},
+   DOI = {10.1016/j.patcog.2009.04.014},
+   url = {http://www.sciencedirect.com/science/article/pii/S0031320309001514},
+   year = {2009},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Scherer, Klaus R. and Ellgring, Heiner},
+   title = {Multimodal expression of emotion: Affect programs or componential appraisal patterns?},
+   journal = {Emotion},
+   volume = {7},
+   number = {1},
+   pages = {158-171},
+   abstract = {In earlier work, the authors analyzed emotion portrayals by professional actors separately for facial expression, vocal expression, gestures, and body movements. In a secondary analysis of the combined data set for all these modalities, the authors now examine to what extent actors use prototypical multimodal configurations of expressive actions to portray different emotions, as predicted by basic emotion theories claiming that expressions are produced by fixed neuromotor affect programs. Although several coherent unimodal clusters are identified, the results show only 3 multimodal clusters: agitation, resignation, and joyful surprise, with only the latter being specific to a particular emotion. Finding variable expressions rather than prototypical patterns seems consistent with the notion that emotional expression is differentially driven by the results of sequential appraisal checks, as postulated by componential appraisal theories. (PsycINFO Database Record (c) 2012 APA, all rights reserved)},
+   keywords = {multimodal emotion expression
+facial and vocal expression
+affect programs
+appraisal theory
+component process model
+gestures
+body movements},
+   ISSN = {1931-1516(Electronic);1528-3542(Print)},
+   DOI = {10.1037/1528-3542.7.1.158},
+   year = {2007},
+   type = {Journal Article}
+}
+
+@misc{
+   author = {Schwarz, Julia and Hudson, Scott and Mankoff, Jennifer and Wilson, Andrew D.},
+   title = {A framework for robust and flexible handling of inputs with uncertainty},
+   publisher = {ACM},
+   pages = {47-56},
+   DOI = {10.1145/1866029.1866039},
+   year = {2010},
+   type = {Conference Paper}
+}
+
+@misc{
+   author = {Segen, Jakub and Kumar, Senthil},
+   title = {Gesture VR: vision-based 3D hand interace for spatial interaction},
+   publisher = {ACM},
+   pages = {455-464},
+   DOI = {10.1145/290747.290822},
+   year = {1998},
+   type = {Conference Paper}
+}
+
+@book{
+   author = {Shedroff, Nathan and Noessel, Christopher},
+   title = {Make It So: Interaction Design Lessons from Science Fiction},
+   url = {https://www.youtube.com/watch?v=JMIyO8F0jxg},
+   year = {2012},
+   type = {Book}
+}
+
+@article{
+   author = {Shoemaker, Garth  and Tang, Anthony  and Booth, Kellogg S},
+   title = {Shadow Reaching: A New Perspective on Interaction for Large Displays},
+   journal = {Proceedings of the 20th Annual ACM Symposium on User Interface Software and Technology},
+   year = {2007},
+   type = {Journal Article}
+}
+
+@misc{
+   author = {Spindler, Martin and Stellmach, Sophie and Dachselt, Raimund},
+   title = {PaperLens: advanced magic lens interaction above the tabletop},
+   publisher = {ACM},
+   year = {2009},
+   type = {Conference Paper}
+}
+
+@misc{
+   author = {Stellmach, Sophie and Stober, Sebastian  and Nürnberger, Andreas  and Dachself, Raimund },
+   title = {Designing gaze-supported multimodal interactions for exploration of large image collections},
+   publisher = {ACM},
+   year = {2011},
+   type = {Conference Paper}
+}
+
+@misc{
+   author = {Stephenson, Peter  and Encarnação, L. Miguel  and Branco, Pedro  and Tesch, Joachim  and Zeltzer, David },
+   title = {Studydesk: semi-immersive volumetric data analysis},
+   publisher = {ACM},
+   pages = {251-252},
+   DOI = {10.1145/604471.604520},
+   year = {2003},
+   type = {Conference Paper}
+}
+
+@inproceedings{
+   author = {Stern, Helman I and Wachs, Juan P. and Edan, Yael},
+   title = {Human Factors for Design of Hand Gesture Human - Machine Interaction},
+   booktitle = {Systems, Man and Cybernetics, 2006. SMC '06. IEEE International Conference on},
+   volume = {5},
+   pages = {4052-4056},
+   keywords = {gesture recognition
+human computer interaction
+human factors
+man-machine systems
+vocabulary
+hand gesture human machine interaction
+hand gesture vocabulary design
+preconceived command vocabularies
+Anthropometry
+Classification algorithms
+Computer interfaces
+Cybernetics
+Design methodology
+Human robot interaction
+Man machine systems
+Muscles
+Hand gesture
+intuitive interfaces
+man-machine interaction
+optimal vocabulary},
+   DOI = {10.1109/icsmc.2006.384767},
+   year = {2006},
+   type = {Conference Proceedings}
+}
+
+@misc{
+   author = {Sturm, Irene  and Schiewe, Maria  and Köhlmann, Wiebke  and Jürgensen, Helmut },
+   title = {Communicating through gestures without visual feedback},
+   publisher = {ACM},
+   pages = {1-8},
+   DOI = {10.1145/1579114.1579129},
+   year = {2009},
+   type = {Conference Paper}
+}
+
+@article{
+   author = {Sturman, D. J. and Zeltzer, D.},
+   title = {A survey of glove-based input},
+   journal = {Computer Graphics and Applications, IEEE},
+   volume = {14},
+   number = {1},
+   pages = {30-39},
+   keywords = {data gloves
+tracking
+virtual reality
+CyberGlove
+DataGlove
+Dexterous HandMaster
+Digital Data Entry Glove
+MIT LED glove
+Power Glove
+Sayre glove
+Space Glove
+acoustic tracking
+computer-based puppetry
+glove-based input devices
+hand-tracking devices
+magnetic tracking
+manual dexterity
+marker systems
+musical performance
+natural interfaces
+optical tracking
+position tracking
+signed language understanding
+silhouette analysis
+teleoperation
+Acoustic devices
+Application software
+Computer applications
+Light emitting diodes
+Magnetic analysis
+Magnetic devices
+Optical devices
+Orbital robotics
+Space technology},
+   ISSN = {0272-1716},
+   DOI = {10.1109/38.250916},
+   year = {1994},
+   type = {Journal Article}
+}
+
+@misc{
+   author = {Suzuki, Kenji},
+   title = {Artificial Neural Networks: Methodological Advances and Biomedical Applications},
+   publisher = {InTech},
+   pages = {362},
+   ISBN = {9789533072432},
+   year = {2011},
+   type = {Electronic Book}
+}
+
+@article{
+   author = {Thomas, David R.},
+   title = {A General Inductive Approach for Analyzing Qualitative Evaluation Data},
+   journal = {American Journal of Evaluation},
+   volume = {27},
+   number = {2},
+   pages = {237-246},
+   abstract = {A general inductive approach for analysis of qualitative evaluation data is described. The purposes for using an inductive approach are to (a) condense raw textual data into a brief, summary format; (b) establish clear links between the evaluation or research objectives and the summary findings derived from the raw data; and (c) develop a framework of the underlying structure of experiences or processes that are evident in the raw data. The general inductive approach provides an easily used and systematic set of procedures for analyzing qualitative data that can produce reliable and valid findings. Although the general inductive approach is not as strong as some other analytic strategies for theory or model development, it does provide a simple, straightforward approach for deriving findings in the context of focused evaluation questions. Many evaluators are likely to find using a general inductive approach less complicated than using other approaches to qualitative data analysis.},
+   DOI = {10.1177/1098214005283748},
+   url = {http://aje.sagepub.com/content/27/2/237.abstract},
+   year = {2006},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Treadgold, N. K. and Gedeon, T. D.},
+   title = {Exploring constructive cascade networks},
+   journal = {Neural Networks, IEEE Transactions on},
+   volume = {10},
+   number = {6},
+   pages = {1335-1350},
+   abstract = {Constructive algorithms have proved to be powerful methods for training feedforward neural networks. An important property of these algorithms is generalization. A series of empirical studies were performed to examine the effect of regularization on generalization in constructive cascade algorithms. It was found that the combination of early stopping and regularization resulted in better generalization than the use of early stopping alone. A cubic penalty term that greatly penalizes large weights was shown to be beneficial for generalization in cascade networks. An adaptive method of setting the regularization magnitude in constructive algorithms was introduced and shown to produce generalization results similar to those obtained with a fixed, user-optimized regularization setting. This adaptive method also resulted in the construction of smaller networks for more complex problems. The acasper algorithm, which incorporates the insights obtained from the empirical studies, was shown to have good generalization and network construction properties. This algorithm was compared to the cascade correlation algorithm on the Proben 1 and additional regression data sets},
+   keywords = {feedforward neural nets
+generalisation (artificial intelligence)
+learning (artificial intelligence)
+statistical analysis
+Proben 1
+acasper algorithm
+adaptive method
+cascade correlation algorithm
+constructive algorithms
+constructive cascade networks
+cubic penalty term
+early stopping
+fixed user-optimized regularization setting
+regression data sets
+regularization},
+   ISSN = {1045-9227},
+   DOI = {10.1109/72.809079},
+   year = {1999},
+   type = {Journal Article}
+}
+
+@inproceedings{
+   author = {Triesch, J. and Von Der Malsburg, C.},
+   title = {A gesture interface for human-robot-interaction},
+   booktitle = {Automatic Face and Gesture Recognition, 1998. Proceedings. Third IEEE International Conference on},
+   pages = {546-551},
+   keywords = {interactive devices
+manipulators
+real-time systems
+robot vision
+tracking
+hand shape analysis
+human-robot interaction
+person-independent gesture interface
+real-time hand tracking
+simple commands
+varying complex backgrounds
+Cameras
+Computer science
+Deformable models
+Human robot interaction
+Robot vision systems
+Robotics and automation
+Skin
+Speech
+User interfaces
+Visual system},
+   DOI = {10.1109/afgr.1998.671005},
+   year = {1998},
+   type = {Conference Proceedings}
+}
+
+@misc{
+   author = {Troyer, Todd},
+   title = {An Introduction to Computational Neuroscience},
+   publisher = {University of Texas at San Antonio},
+   pages = {181},
+   year = {2005},
+   type = {Electronic Book}
+}
+
+@article{
+   author = {Villarreal, Mirta and Fridman, Esteban A. and Amengual, Alejandra and Falasco, German and Gerscovich, Eliana Roldan and Ulloa, Erlinda R. and Leiguarda, Ramon C.},
+   title = {The neural substrate of gesture recognition},
+   journal = {Neuropsychologia},
+   volume = {46},
+   number = {9},
+   pages = {2371-2382},
+   abstract = {Previous studies have linked action recognition with a particular pool of neurons located in the ventral premotor cortex, the posterior parietal cortex and the superior temporal sulcus (the mirror neuron system). However, it is still unclear if transitive and intransitive gestures share the same neural substrates during action-recognition processes. In the present study, we used event-related functional magnetic resonance imaging (fMRI) to assess the cortical areas active during recognition of pantomimed transitive actions, intransitive gestures, and meaningless control actions. Perception of all types of gestures engaged the right pre-supplementary motor area (pre-SMA), and bilaterally in the posterior superior temporal cortex, the posterior parietal cortex, occipitotemporal regions and visual cortices. Activation of the posterior superior temporal sulcus/superior temporal gyrus region was found in both hemispheres during recognition of transitive and intransitive gestures, and in the right hemisphere during the control condition; the middle temporal gyrus showed activation in the left hemisphere when subjects recognized transitive and intransitive gestures; activation of the left inferior parietal lobe and intraparietal sulcus (IPS) was mainly observed in the left hemisphere during recognition of the three conditions. The most striking finding was the greater activation of the left inferior frontal gyrus (IFG) during recognition of intransitive actions. Results show that a similar neural substrate, albeit, with a distinct engagement underlies the cognitive processing of transitive and intransitive gestures recognition. These findings suggest that selective disruptions in these circuits may lead to distinct clinical deficits.},
+   keywords = {Intransitive
+Observation
+fMRI
+Frontal lobe
+Parietal lobe
+Apraxia},
+   ISSN = {0028-3932},
+   DOI = {10.1016/j.neuropsychologia.2008.03.004},
+   url = {http://www.sciencedirect.com/science/article/pii/S0028393208001012},
+   year = {2008},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Wachs, Juan Pablo  and Kölsch, Mathias  and Stern, Helman  and Edan, Yael },
+   title = {Vision-based hand-gesture applications},
+   journal = {Commun. ACM},
+   volume = {54},
+   number = {2},
+   pages = {60-71},
+   ISSN = {0001-0782},
+   DOI = {10.1145/1897816.1897838},
+   year = {2011},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Walther, Dirk B.  and Caddigan, Earmon and Fei-Fei, Li  and Beck, Diane M.},
+   title = {Natural Scene Categories Revealed in Distributed Patterns of Activity in the Human Brain},
+   journal = {Neuroscience},
+   volume = {29},
+   number = {34},
+   year = {2009},
+   type = {Journal Article}
+}
+
+@inbook{
+   author = {Wilkins, David},
+   title = {Why Pointing With the Index Finger Is Not a Universal (in Sociocultural and Semiotic Terms)},
+   booktitle = {Pointing: Where Language, Culture and Cognition Meet},
+   publisher = {Psychology Press},
+   chapter = {8},
+   pages = {171-214},
+   ISBN = {0805840141},
+   year = {2003},
+   type = {Book Section}
+}
+
+@book{
+   author = {Wixon, Dennis and Wigdor, Daniel},
+   title = {Brave NUI World},
+   edition = {1},
+   year = {2010},
+   type = {Book}
+}
+
+@misc{
+   author = {Wobbrock, Jacob O.  and Morris, Meredith Ringel  and Wilson, Andrew D. },
+   title = {User-defined gestures for surface computing},
+   publisher = {ACM},
+   pages = {1083-1092},
+   DOI = {10.1145/1518701.1518866},
+   year = {2009},
+   type = {Conference Paper}
+}
+
+@article{
+   author = {Woodward, James C},
+   title = {Signs of Change: Historical Variation in American Sign Language},
+   journal = {Sign Language Studies},
+   volume = {10},
+   number = {1},
+   year = {1976},
+   type = {Journal Article}
+}
+
+@inbook{
+   author = {Wright, Michael and Lin, Chun-Jung and O’Neill, Eamonn and Cosker, Darren and Johnson, Peter},
+   title = {3D Gesture Recognition: An Evaluation of User and System Performance},
+   booktitle = {Pervasive Computing},
+   editor = {Lyons, Kent and Hightower, Jeffrey and Huang, ElaineM},
+   series = {Lecture Notes in Computer Science},
+   publisher = {Springer Berlin Heidelberg},
+   volume = {6696},
+   chapter = {19},
+   pages = {294-313},
+   keywords = {Gestural interaction
+3D gesture recognition},
+   ISBN = {978-3-642-21725-8},
+   DOI = {10.1007/978-3-642-21726-5_19},
+   url = {http://dx.doi.org/10.1007/978-3-642-21726-5_19},
+   year = {2011},
+   type = {Book Section}
+}
+
+@inbook{
+   author = {Wu, Ying and Huang, Thomas},
+   title = {Vision-Based Gesture Recognition: A Review},
+   booktitle = {Gesture-Based Communication in Human-Computer Interaction},
+   editor = {Braffort, Annelies and Gherbi, Rachid and Gibet, Sylvie and Teil, Daniel and Richardson, James},
+   series = {Lecture Notes in Computer Science},
+   publisher = {Springer Berlin Heidelberg},
+   volume = {1739},
+   chapter = {10},
+   pages = {103-115},
+   ISBN = {978-3-540-66935-7},
+   DOI = {10.1007/3-540-46616-9_10},
+   url = {http://dx.doi.org/10.1007/3-540-46616-9_10},
+   year = {1999},
+   type = {Book Section}
+}
+
+@article{
+   author = {Wu, Ying Choon and Coulson, Seana},
+   title = {How iconic gestures enhance communication: An ERP study},
+   journal = {Brain and Language},
+   volume = {101},
+   number = {3},
+   pages = {234-245},
+   abstract = {EEG was recorded as adults watched short segments of spontaneous discourse in which the speaker’s gestures and utterances contained complementary information. Videos were followed by one of four types of picture probes: cross-modal related probes were congruent with both speech and gestures; speech-only related probes were congruent with information in the speech, but not the gesture; and two sorts of unrelated probes were created by pairing each related probe with a different discourse prime. Event-related potentials (ERPs) elicited by picture probes were measured within the time windows of the N300 (250–350 ms post-stimulus) and N400 (350–550 ms post-stimulus). Cross-modal related probes elicited smaller N300 and N400 than speech-only related ones, indicating that pictures were easier to interpret when they corresponded with gestures. N300 and N400 effects were not due to differences in the visual complexity of each probe type, since the same cross-modal and speech-only picture probes elicited N300 and N400 with similar amplitudes when they appeared as unrelated items. These findings extend previous research on gesture comprehension by revealing how iconic co-speech gestures modulate conceptualization, enabling listeners to better represent visuo-spatial aspects of the speaker’s meaning.},
+   keywords = {Gesture
+N400
+N300
+Semantic integration
+Language comprehension
+Object recognition
+Conceptual integration
+Embodiment
+ERP
+Meaning
+Simulation},
+   ISSN = {0093-934X},
+   DOI = {http://dx.doi.org/10.1016/j.bandl.2006.12.003},
+   url = {http://www.sciencedirect.com/science/article/pii/S0093934X0600438X},
+   year = {2007},
+   type = {Journal Article}
+}
+
+@misc{
+   author = {Yoon, Dongwook  and Chen, Nicholas  and Guimbretière, François  and Sellen, Abigail },
+   title = {RichReview: blending ink, speech, and gesture to support collaborative document review},
+   publisher = {ACM},
+   pages = {481-490},
+   DOI = {10.1145/2642918.2647390},
+   year = {2014},
+   type = {Conference Paper}
+}
+
+@article{
+   author = {Yu, Lingyun and Svetachov, P. and Isenberg, P. and Everts, M. H. and Isenberg, T.},
+   title = {FI3D: Direct-Touch Interaction for the Exploration of 3D Scientific Visualization Spaces},
+   journal = {Visualization and Computer Graphics, IEEE Transactions on},
+   volume = {16},
+   number = {6},
+   pages = {1613-1622},
+   abstract = {We present the design and evaluation of FI3D, a direct-touch data exploration technique for 3D visualization spaces. The exploration of three-dimensional data is core to many tasks and domains involving scientific visualizations. Thus, effective data navigation techniques are essential to enable comprehension, understanding, and analysis of the information space. While evidence exists that touch can provide higher-bandwidth input, somesthetic information that is valuable when interacting with virtual worlds, and awareness when working in collaboration, scientific data exploration in 3D poses unique challenges to the development of effective data manipulations. We present a technique that provides touch interaction with 3D scientific data spaces in 7 DOF. This interaction does not require the presence of dedicated objects to constrain the mapping, a design decision important for many scientific datasets such as particle simulations in astronomy or physics. We report on an evaluation that compares the technique to conventional mouse-based interaction. Our results show that touch interaction is competitive in interaction speed for translation and integrated interaction, is easy to learn and use, and is preferred for exploration and wayfinding tasks. To further explore the applicability of our basic technique for other types of scientific visualizations we present a second case study, adjusting the interaction to the illustrative visualization of fiber tracts of the brain and the manipulation of cutting planes in this context.},
+   keywords = {data visualisation
+interactive systems
+natural sciences computing
+3D scientific visualization spaces
+FI3D
+astronomy
+brain fiber tracts
+data manipulations
+direct touch data exploration
+direct touch interaction
+mouse based interaction
+physics
+Aerospace electronics
+Data visualization
+Mice
+Navigation
+Solid modeling
+Space exploration
+Three dimensional displays
+3D navigation and exploration
+Direct-touch interaction
+evaluation
+illustrative visualization
+wall displays
+Brain
+Computer Graphics
+Computer Simulation
+Humans
+Imaging, Three-Dimensional
+Models, Anatomic
+User-Computer Interface},
+   ISSN = {1077-2626},
+   DOI = {10.1109/TVCG.2010.157},
+   year = {2010},
+   type = {Journal Article}
+}
+

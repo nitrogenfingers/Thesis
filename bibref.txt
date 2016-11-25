@@ -1,0 +1,322 @@
+	BIBREF
+	------
+	
+Angus Sowizral 1995: Embedding the 2D interaction metaphor in a real 3D virtual environment
+
+--
+Type: Application
+Tags: 
+		Virtual Environment
+	
+--------------------------------------------------------------------------------------------
+Argyle Dean 1965: Eye-Contact, Distance and Affiliation
+
+--
+Type: Communication (Eye Contact)
+Tags: 
+		Distance
+		Fixation Time
+	
+
+--------------------------------------------------------------------------------------------
+Baumgartner Ebert Deller Agne 2007: 2D meets 3D: a human-centered interface for visual data exploration
+
+--
+Type: Application
+Tags: 	
+		3D interface
+		data glove
+		pen, multimodal interface
+		document management
+	
+--------------------------------------------------------------------------------------------
+Baytas Yemez Ozcan 2014: Hotspotizer: End-User Authoring of Mid-Air Gestural Interactions
+
+--
+Type: Recognition Tool
+Tags:
+		Space discretization
+		Prototyping tool
+
+--------------------------------------------------------------------------------------------
+Bennett McCarthy O'Modhrain Symth 2011: SimpleFlow: Enhancing Gestural Interaction with Gesture Prediction, Abbreviation and Autocompletion
+
+--
+Type: Recognition Tool
+Tags
+		Predictive Gestures
+		User Analysis
+		
+--------------------------------------------------------------------------------------------
+Beringer 2002: Evoking Gestures in SmartKom- Design of the Graphical User Interface
+
+--
+Type: Application (WIP)
+Tags
+		Wizard-of-Oz
+		Multi-modal interface
+		Natural Interaction
+		Experimental / Freeform interaction
+		Deictic Gestures
+
+--------------------------------------------------------------------------------------------
+Blackwell Kornatz Heath 1998: Effect of grip span on maximal grip force and fatigue of flexor
+
+--
+Type: Ergonomics
+Tags
+		Hand Dynamometry
+		Grip force
+		Fatigue
+		EMG measurements
+
+--------------------------------------------------------------------------------------------
+Bohannon 1986: Test-Retest Reliability of Hand-Held Dynamometry during a Single Session of Strength Assessment
+
+--
+Type: Ergonomics
+Tags
+		Hand Dynamometry
+		Assessment for Strength
+		
+--------------------------------------------------------------------------------------------
+Bolt 1980: "Put-That-There": Voice and Gesture at the Graphics Interface
+
+--
+Type: Application
+Tags
+		Deictic Gestures
+		Multimodal Interface
+		Natural Interaction
+
+--------------------------------------------------------------------------------------------
+Bolt Herranz 1992: Two-handed gestures in multi-modal natural dialog
+
+--
+Type: Evaluation
+Tags
+		Wizard-of-Oz
+		
+--------------------------------------------------------------------------------------------
+Bowman Hodges 1997: An Evaluation of Techniques for Grabbing and Manipulating Remote Objects in Immerisve Virtual Environments
+
+--
+Type: Application
+Tags:
+		Virtual Environment
+		Grab / Select / Manipulate
+		Selection Techniques
+
+--------------------------------------------------------------------------------------------
+Bowman Hodges 1999: Formalizing the Design, Evaluation and Application of Interaction Techniques for Immersive Virtual Environments
+
+--
+Type: Evaluation
+Tags:
+		Virtual Environment
+		Interaction Techniques
+		Performance Evaluation
+		
+--------------------------------------------------------------------------------------------
+Cabral Morimoto Zuffo 2005: On the usability of gesture interfaces in virtual reality environments
+
+--
+Type: Application & Evaluation
+Tags:
+		Virtual Environment
+		Fatigue
+		Touchless Interaction
+		Interaction Techniques
+		Fits's Law
+		
+--------------------------------------------------------------------------------------------
+Cao Balakrishnan 2005: Evaluation of an On-line Adaptive Gesture Interface with Command Prediction
+
+--
+Type: Application & Evaluation
+Tags:
+		Touch-based interaction
+		Gestural Adaptation
+		ML recognition
+		Evaluation
+
+--------------------------------------------------------------------------------------------
+Cao Zhai 2007: Modeling Human Performance of Pen Stroke Gestures
+
+--
+Type: 
+Tags:
+
+--------------------------------------------------------------------------------------------
+Cedras Shah: Motion-based recognition: a suvery
+
+--
+Type: Survey
+Tags:
+		Recognition
+		Camera-based interfaces
+		
+--------------------------------------------------------------------------------------------
+Chaffin 1973: Localized Muscle Fatigue - Definition and Measurement
+
+--
+Type: Ergonomics
+Tags
+		Fatigue
+		EMG
+		Hand Dynamometry
+
+--------------------------------------------------------------------------------------------
+Cheng 2015: Gesture Control in a Virtual Environment
+
+--
+Type: Evaluation
+Tags
+		Myo
+		Kinect
+		Gesture
+		
+--------------------------------------------------------------------------------------------
+Churchill 2011: Missing the point
+
+--
+Type: Evaluation
+Tags
+		Non-verbal communication
+		Gestural Interfaces
+		Naturalness
+
+--------------------------------------------------------------------------------------------
+Cobb Nichols Ramsey Wilson 1999: Virtual Reality-Induced Symptoms and Effects (VRISE)
+
+--
+Type: Ergonomics
+Tags
+		Virtual Environments
+		Head-Mounted Displays
+		Fatigue / Stress
+
+--------------------------------------------------------------------------------------------
+Cutler Frohlich Hanrahan 1997: Two-Handed Direct Manipulation of the Responsive Workbench
+
+--
+Type: Application, Evaluative
+Tags
+		Two-handed interaction
+		Natural Manipulation
+		Symmetric and Asymmetric Bimanual Interaction
+		
+--------------------------------------------------------------------------------------------
+Dachselt Buchholz 2009: Natural throw and tilt interaction between mobile phones and distant displays
+
+--
+Type: Implementation
+Tags
+		Multiple display interfaces
+		Non-recognative Gestures
+		
+--------------------------------------------------------------------------------------------
+Dahlback Jonsson Ahrenberg 1993: Wizard of Oz studies -- why and how
+
+--
+Type: Implementation, Evaluation
+Tags
+		Conversational Agents
+		Data Corpus
+		Experimental Methodology
+
+--------------------------------------------------------------------------------------------
+Ellis Heafner Sibley 1969: The GRAIL language and operations
+
+--
+Type: Implementation
+Tags
+		Language
+		Stylus Interface
+		Gestural Recognition
+		
+--------------------------------------------------------------------------------------------
+Ens Hincapie-Ramos Irani 2014: Ethereal planes: a design framework for 2D information spaces in 3D mixed reality environments
+
+--
+Type: Implementation
+Tags
+		System Framework
+		Head-mounted displays
+		Literature Review-based design
+		Interaction Paradigms
+		Augmented Reality
+		Gestural Interaction
+		
+--------------------------------------------------------------------------------------------
+Exline Gray Schuette 1965: Visual behaviour in a dyad as affected by interview content and sex of respondant		
+
+--
+Type: NVC Study
+Tags
+		Affective arousal between interloctuors
+		Avoidance of gaze
+		Sex diference
+
+--------------------------------------------------------------------------------------------
+Fagerberg Stahl Hook 2003: Designing gestures for affective input: an analysis of shape, effort and valence
+
+--
+Type: Implementation
+Tags
+		Affective interaction
+		Gestural affective components
+		Prop-based interaction
+		
+--------------------------------------------------------------------------------------------
+Fiedler Gabsdil 2002: Supporting progressive Refinement of Wizard-of-Oz Experiments
+
+--
+Type: WoZ study
+Tags
+		Tutorial dialogues
+		Experimental Design
+		
+--------------------------------------------------------------------------------------------
+Fitts 1954: The information capacity of the human motor system in controlling the amplitude of movement
+
+--
+Type: Theory
+Tags
+		Fitts Law
+
+--------------------------------------------------------------------------------------------
+Fothergill Mentis Kohli Nowozin 2012: Instructing people for training gestural interactive systems
+
+--
+Type: Evaluation
+Tags
+		Interface Training
+		Semiotic Instruction
+		
+--------------------------------------------------------------------------------------------
+Francese Passero Tortora 2012: Wiimote and Kinect: gestural user interfaces add a natural third dimension to HCI
+
+--
+Type: Implementation
+Tags
+		Kinect
+		Skeletal Gestures
+		
+--------------------------------------------------------------------------------------------
+Fukumoto Suenaga Mase 1994: "Finger-Pointer": Pointing interface by image processing
+
+--
+Type: Implementation
+Tags
+		Deictic gestures
+		Gesture taxonomies (Locator/Switcher/Valuator/Imager)
+		Detecting direction and value of pointing
+		
+
+
+
+SEE ALSO
+
+Zhai Accot Woltjer 2004: Human Action Laws in Electronic Virtual Worlds - an empirical study of path steering performance
+		- Need access (request from library)
